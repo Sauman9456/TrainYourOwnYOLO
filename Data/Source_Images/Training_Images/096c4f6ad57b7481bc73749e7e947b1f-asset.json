@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "096c4f6ad57b7481bc73749e7e947b1f",
+        "name": "n02112018_13600.jpg",
+        "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_13600.jpg",
+        "size": {
+            "width": 500,
+            "height": 375
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "aHNLKkTHy",
+            "type": "RECTANGLE",
+            "tags": [
+                "Sad"
+            ],
+            "boundingBox": {
+                "height": 85.78431372549021,
+                "width": 75.98039215686275,
+                "left": 268.6887254901961,
+                "top": 131.12745098039215
+            },
+            "points": [
+                {
+                    "x": 268.6887254901961,
+                    "y": 131.12745098039215
+                },
+                {
+                    "x": 344.66911764705884,
+                    "y": 131.12745098039215
+                },
+                {
+                    "x": 344.66911764705884,
+                    "y": 216.91176470588238
+                },
+                {
+                    "x": 268.6887254901961,
+                    "y": 216.91176470588238
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "136901d868503f1215f368e1326f6603",
+        "name": "pomeranian_60.jpg",
+        "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_60.jpg",
+        "size": {
+            "width": 500,
+            "height": 357
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "QBz5TMt-E",
+            "type": "RECTANGLE",
+            "tags": [
+                "Normal"
+            ],
+            "boundingBox": {
+                "height": 43.75,
+                "width": 57.759626604434075,
+                "left": 189.66051633605602,
+                "top": 129.5
+            },
+            "points": [
+                {
+                    "x": 189.66051633605602,
+                    "y": 129.5
+                },
+                {
+                    "x": 247.42014294049008,
+                    "y": 129.5
+                },
+                {
+                    "x": 247.42014294049008,
+                    "y": 173.25
+                },
+                {
+                    "x": 189.66051633605602,
+                    "y": 173.25
+                }
+            ]
+        },
+        {
+            "id": "I96pP3pMc",
+            "type": "RECTANGLE",
+            "tags": [
+                "Normal"
+            ],
+            "boundingBox": {
+                "height": 81.08333333333334,
+                "width": 95.09918319719954,
+                "left": 166.90672403733956,
+                "top": 107.91666666666667
+            },
+            "points": [
+                {
+                    "x": 166.90672403733956,
+                    "y": 107.91666666666667
+                },
+                {
+                    "x": 262.0059072345391,
+                    "y": 107.91666666666667
+                },
+                {
+                    "x": 262.0059072345391,
+                    "y": 189
+                },
+                {
+                    "x": 166.90672403733956,
+                    "y": 189
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

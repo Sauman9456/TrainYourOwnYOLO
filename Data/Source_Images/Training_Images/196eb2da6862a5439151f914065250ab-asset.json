@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "196eb2da6862a5439151f914065250ab",
+        "name": "n02112018_13581.jpg",
+        "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_13581.jpg",
+        "size": {
+            "width": 500,
+            "height": 375
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "hJ3QNPzbc",
+            "type": "RECTANGLE",
+            "tags": [
+                "Happy"
+            ],
+            "boundingBox": {
+                "height": 139.09313725490196,
+                "width": 141.54411764705884,
+                "left": 192.70833333333334,
+                "top": 91.29901960784315
+            },
+            "points": [
+                {
+                    "x": 192.70833333333334,
+                    "y": 91.29901960784315
+                },
+                {
+                    "x": 334.25245098039215,
+                    "y": 91.29901960784315
+                },
+                {
+                    "x": 334.25245098039215,
+                    "y": 230.3921568627451
+                },
+                {
+                    "x": 192.70833333333334,
+                    "y": 230.3921568627451
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

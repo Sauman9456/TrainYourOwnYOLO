@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "2918ecbea3a1225197e01da8837f2d8d",
+        "name": "n02112018_3033.jpg",
+        "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_3033.jpg",
+        "size": {
+            "width": 500,
+            "height": 446
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "xUuQnPS4O",
+            "type": "RECTANGLE",
+            "tags": [
+                "Angry"
+            ],
+            "boundingBox": {
+                "height": 162.51307189542482,
+                "width": 164.72303206997083,
+                "left": 119.21465014577258,
+                "top": 37.89542483660131
+            },
+            "points": [
+                {
+                    "x": 119.21465014577258,
+                    "y": 37.89542483660131
+                },
+                {
+                    "x": 283.9376822157434,
+                    "y": 37.89542483660131
+                },
+                {
+                    "x": 283.9376822157434,
+                    "y": 200.40849673202612
+                },
+                {
+                    "x": 119.21465014577258,
+                    "y": 200.40849673202612
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

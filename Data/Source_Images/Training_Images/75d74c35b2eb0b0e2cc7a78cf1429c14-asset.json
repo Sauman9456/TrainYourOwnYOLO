@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "75d74c35b2eb0b0e2cc7a78cf1429c14",
+        "name": "n02112018_11641.jpg",
+        "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_11641.jpg",
+        "size": {
+            "width": 375,
+            "height": 500
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "VyVs-vb2t",
+            "type": "RECTANGLE",
+            "tags": [
+                "Normal"
+            ],
+            "boundingBox": {
+                "height": 169.11764705882354,
+                "width": 147.87581699346404,
+                "left": 75.98039215686275,
+                "top": 106.20915032679738
+            },
+            "points": [
+                {
+                    "x": 75.98039215686275,
+                    "y": 106.20915032679738
+                },
+                {
+                    "x": 223.8562091503268,
+                    "y": 106.20915032679738
+                },
+                {
+                    "x": 223.8562091503268,
+                    "y": 275.3267973856209
+                },
+                {
+                    "x": 75.98039215686275,
+                    "y": 275.3267973856209
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

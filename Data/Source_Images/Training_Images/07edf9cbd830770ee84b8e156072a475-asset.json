@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "07edf9cbd830770ee84b8e156072a475",
+        "name": "pomeranian_112.jpg",
+        "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_112.jpg",
+        "size": {
+            "width": 300,
+            "height": 199
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "KOW7M0BxC",
+            "type": "RECTANGLE",
+            "tags": [
+                "Normal"
+            ],
+            "boundingBox": {
+                "height": 66.890756302521,
+                "width": 79.26421404682274,
+                "left": 43.812709030100336,
+                "top": 61.711948529411764
+            },
+            "points": [
+                {
+                    "x": 43.812709030100336,
+                    "y": 61.711948529411764
+                },
+                {
+                    "x": 123.07692307692308,
+                    "y": 61.711948529411764
+                },
+                {
+                    "x": 123.07692307692308,
+                    "y": 128.60270483193275
+                },
+                {
+                    "x": 43.812709030100336,
+                    "y": 128.60270483193275
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

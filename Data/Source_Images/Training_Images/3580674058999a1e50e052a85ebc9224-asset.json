@@ -1,0 +1,48 @@
+{
+    "asset": {
+        "format": "jpg",
+        "id": "3580674058999a1e50e052a85ebc9224",
+        "name": "pomeranian_153.jpg",
+        "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_153.jpg",
+        "size": {
+            "width": 300,
+            "height": 225
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "A1ICGlpb1",
+            "type": "RECTANGLE",
+            "tags": [
+                "Angry"
+            ],
+            "boundingBox": {
+                "height": 62.50000000000001,
+                "width": 70.22058823529412,
+                "left": 109.74264705882354,
+                "top": 83.82352941176471
+            },
+            "points": [
+                {
+                    "x": 109.74264705882354,
+                    "y": 83.82352941176471
+                },
+                {
+                    "x": 179.96323529411765,
+                    "y": 83.82352941176471
+                },
+                {
+                    "x": 179.96323529411765,
+                    "y": 146.32352941176472
+                },
+                {
+                    "x": 109.74264705882354,
+                    "y": 146.32352941176472
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}

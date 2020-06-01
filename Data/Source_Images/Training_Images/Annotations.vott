@@ -1,0 +1,5025 @@
+{
+    "name": "Annotations",
+    "securityToken": "Annotations Token",
+    "sourceConnection": {
+        "name": "Annotations",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNTQxYjAzZDBjY2Q2Y2EwYmQ2YWUyYmQyYTNiMTNlYjhjNTEzM2Q1NzY2YzBiODVmZjQzMDA4YzA1ZGEwZDI1ZWExZGIxODdhMzEzODc3NmFkODE5MWM0M2EwZjdkMzRmZTE2N2UzNTJmN2U1MjIyYWRiMTYwZjllOTVjZTgyMDljNmNhYmU3M2MwZDI0MDZhYzBkMjkzZWI4NTNkNjYwZmE2NDViNzQxNmUyYjZlYzEzMTJmYzFlNzc1MTRjOTg5OWRkZTIwNGZjZmZkNDI3Mzg5MGY4ZTc1MmZhMGIxNGQiLCJpdiI6ImM4OTA5NzlmYzdhZmQzNGRhOGU1ODUyODRjOWJhNmE5YjA4NTFlNzg2OTg2OWJhNCJ9"
+        },
+        "id": "N9Fj1m3t8"
+    },
+    "targetConnection": {
+        "name": "Annotations",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNzI3MGIwZWNiZGUxNzRhOGMwYjJjODUyZDI4ZThiMjVhZDhhNjBlNzYxNmRkOGQ4MDIwNmE0YmI4OGE2ZDg5MGMwNTdjZWYxOGUyZGRkY2JmM2Q4MjEzNWVlMDhhODQxNzgxMTc1M2I1MjRhMTZhYmFlNWExMzMxMjZjNWQ5MDNhNDJiODgzNTZmZGI1MzQ0MmY2NjhiNjVmMWQ0ZTE3NzdlYzMxYjZhYTY3ZThjNjIwOTk5ZjBlMzQxOGU2NTlmMjI0OGVjMjYwZGM4OWE1ODliZDliYmZjYmYyNWQwYTkiLCJpdiI6ImExZWNkMDdkOWExNjYwYThkM2QyOWVkZjllMTY1Mjk5NTU2M2ViYTMzODg1OWY5ZiJ9"
+        },
+        "id": "N9Fj1m3t8"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "Normal",
+            "color": "#5db300"
+        },
+        {
+            "name": "Happy",
+            "color": "#e81123"
+        },
+        {
+            "name": "Sad",
+            "color": "#6917aa"
+        },
+        {
+            "name": "Angry",
+            "color": "#015cda"
+        }
+    ],
+    "id": "hvIJLWl5n",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNDZhOGJiNzA1NjRlYzBiNGYzNGNjMWFhZDBjOTdkYTU3YmY1NzEwY2QyM2I1NzI4NmM3MDg5YWY5MGU4ODUwNDRhMzkzZTBiYTNkZDZkMDczMjYzMmZmOTExYThhZDc5IiwiaXYiOiJiMjJkOWFhNWFkZTRlYzk3NDVhODkyNjI4ZmJlMDQ5ZDJlNzcyMmU1Njg0ZThkZWUifQ=="
+        }
+    },
+    "version": "2.1.0",
+    "lastVisitedAssetId": "e0513a1ff8069a23d673c89a40a49337",
+    "assets": {
+        "21c1255873751cf2ac899d9a1375d0f9": {
+            "format": "jpg",
+            "id": "21c1255873751cf2ac899d9a1375d0f9",
+            "name": "n02112018_10129.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_10129.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "16402ec5642e3a3ef1ddfeec35e34d35": {
+            "format": "jpg",
+            "id": "16402ec5642e3a3ef1ddfeec35e34d35",
+            "name": "n02112018_10158.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_10158.jpg",
+            "size": {
+                "width": 320,
+                "height": 480
+            },
+            "state": 2,
+            "type": 1
+        },
+        "febef31e988df4d48a0dcd22260f6cc3": {
+            "format": "jpg",
+            "id": "febef31e988df4d48a0dcd22260f6cc3",
+            "name": "n02112018_10174.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_10174.jpg",
+            "size": {
+                "width": 500,
+                "height": 334
+            },
+            "state": 2,
+            "type": 1
+        },
+        "36f7523f23a4b0d50b2745fbb9a2cd57": {
+            "format": "jpg",
+            "id": "36f7523f23a4b0d50b2745fbb9a2cd57",
+            "name": "n02112018_10243.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_10243.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "27621dab817552ff50ae153856b85a29": {
+            "format": "jpg",
+            "id": "27621dab817552ff50ae153856b85a29",
+            "name": "n02112018_10309.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_10309.jpg",
+            "size": {
+                "width": 435,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f3005f493656a49c800d926885ec9404": {
+            "format": "jpg",
+            "id": "f3005f493656a49c800d926885ec9404",
+            "name": "n02112018_1090.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_1090.jpg",
+            "size": {
+                "width": 413,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "706c5b6c70e44cabaf629912d2d2c3f9": {
+            "format": "jpg",
+            "id": "706c5b6c70e44cabaf629912d2d2c3f9",
+            "name": "n02112018_10937.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_10937.jpg",
+            "size": {
+                "width": 500,
+                "height": 441
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f0bb6ec9c07eb3627c1aee416bca3ce6": {
+            "format": "jpg",
+            "id": "f0bb6ec9c07eb3627c1aee416bca3ce6",
+            "name": "n02112018_11071.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_11071.jpg",
+            "size": {
+                "width": 500,
+                "height": 334
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ccbeb62cf757c4769c586e68efc0ab06": {
+            "format": "jpg",
+            "id": "ccbeb62cf757c4769c586e68efc0ab06",
+            "name": "n02112018_11105.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_11105.jpg",
+            "size": {
+                "width": 480,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e359aded446ac64e62321ba9a69fffe4": {
+            "format": "jpg",
+            "id": "e359aded446ac64e62321ba9a69fffe4",
+            "name": "n02112018_11233.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_11233.jpg",
+            "size": {
+                "width": 333,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "11c46dee5593b1a01f2083fbfff7c192": {
+            "format": "jpg",
+            "id": "11c46dee5593b1a01f2083fbfff7c192",
+            "name": "n02112018_1146.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_1146.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "39bd7692287ed52286b6a54f94ff32ec": {
+            "format": "jpg",
+            "id": "39bd7692287ed52286b6a54f94ff32ec",
+            "name": "n02112018_11557.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_11557.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 1,
+            "type": 1
+        },
+        "6fc209d12ce8b3784cd84bfd308efaa6": {
+            "format": "jpg",
+            "id": "6fc209d12ce8b3784cd84bfd308efaa6",
+            "name": "n02112018_1158.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_1158.jpg",
+            "size": {
+                "width": 500,
+                "height": 358
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ffe28891f6093fef9b71f21866a116a6": {
+            "format": "jpg",
+            "id": "ffe28891f6093fef9b71f21866a116a6",
+            "name": "n02112018_12020.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_12020.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "75d74c35b2eb0b0e2cc7a78cf1429c14": {
+            "format": "jpg",
+            "id": "75d74c35b2eb0b0e2cc7a78cf1429c14",
+            "name": "n02112018_11641.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_11641.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5e1d91a4faa8c389716a607a99898d03": {
+            "format": "jpg",
+            "id": "5e1d91a4faa8c389716a607a99898d03",
+            "name": "n02112018_12137.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_12137.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "270f1387129a59b8b46abdc24454eef7": {
+            "format": "jpg",
+            "id": "270f1387129a59b8b46abdc24454eef7",
+            "name": "n02112018_12405.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_12405.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6a2827d7b056f356bc3d53b99e5b25cc": {
+            "format": "jpg",
+            "id": "6a2827d7b056f356bc3d53b99e5b25cc",
+            "name": "n02112018_12493.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_12493.jpg",
+            "size": {
+                "width": 444,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "71bed61d8927dff7edd43023ec119a07": {
+            "format": "jpg",
+            "id": "71bed61d8927dff7edd43023ec119a07",
+            "name": "n02112018_12513.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_12513.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8c25655ef7606561357af039abbd8f54": {
+            "format": "jpg",
+            "id": "8c25655ef7606561357af039abbd8f54",
+            "name": "n02112018_12519.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_12519.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3902303007916e5f2935756726770e81": {
+            "format": "jpg",
+            "id": "3902303007916e5f2935756726770e81",
+            "name": "n02112018_12586.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_12586.jpg",
+            "size": {
+                "width": 400,
+                "height": 301
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5c6ba9804d8df4f15cf0aead6d716660": {
+            "format": "jpg",
+            "id": "5c6ba9804d8df4f15cf0aead6d716660",
+            "name": "n02112018_12750.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_12750.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5d7eb470a024d85b7da8acbd592af98a": {
+            "format": "jpg",
+            "id": "5d7eb470a024d85b7da8acbd592af98a",
+            "name": "n02112018_12853.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_12853.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "28a37100a3b29048d1a56823293906fa": {
+            "format": "jpg",
+            "id": "28a37100a3b29048d1a56823293906fa",
+            "name": "n02112018_12953.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_12953.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a10e10f66f793097948878087f20a1a2": {
+            "format": "jpg",
+            "id": "a10e10f66f793097948878087f20a1a2",
+            "name": "n02112018_1317.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_1317.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "896574adad6e2f20d112934ba1bc7c75": {
+            "format": "jpg",
+            "id": "896574adad6e2f20d112934ba1bc7c75",
+            "name": "n02112018_1325.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_1325.jpg",
+            "size": {
+                "width": 357,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "946e001c11334c1db1e8ca146c63c446": {
+            "format": "jpg",
+            "id": "946e001c11334c1db1e8ca146c63c446",
+            "name": "n02112018_1339.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_1339.jpg",
+            "size": {
+                "width": 500,
+                "height": 336
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d0a9d67e4f5c9b0c370ac772982c6126": {
+            "format": "jpg",
+            "id": "d0a9d67e4f5c9b0c370ac772982c6126",
+            "name": "n02112018_1348.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_1348.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "196eb2da6862a5439151f914065250ab": {
+            "format": "jpg",
+            "id": "196eb2da6862a5439151f914065250ab",
+            "name": "n02112018_13581.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_13581.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "096c4f6ad57b7481bc73749e7e947b1f": {
+            "format": "jpg",
+            "id": "096c4f6ad57b7481bc73749e7e947b1f",
+            "name": "n02112018_13600.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_13600.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "652d119c0c7a69fef19b963db5a1b031": {
+            "format": "jpg",
+            "id": "652d119c0c7a69fef19b963db5a1b031",
+            "name": "n02112018_13636.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_13636.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d90b7bb2918bf6babc7d1e457eee7a67": {
+            "format": "jpg",
+            "id": "d90b7bb2918bf6babc7d1e457eee7a67",
+            "name": "n02112018_13691.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_13691.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c7d51e13b023db5749b71ad0480ee3b7": {
+            "format": "jpg",
+            "id": "c7d51e13b023db5749b71ad0480ee3b7",
+            "name": "n02112018_1380.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_1380.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f152cf75288cd550cbd1bf6969d0e0cf": {
+            "format": "jpg",
+            "id": "f152cf75288cd550cbd1bf6969d0e0cf",
+            "name": "n02112018_1389.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_1389.jpg",
+            "size": {
+                "width": 500,
+                "height": 430
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1c96b497af114fc01a9df125057973ac": {
+            "format": "jpg",
+            "id": "1c96b497af114fc01a9df125057973ac",
+            "name": "n02112018_13930.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_13930.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dfe17813dba2b91f32e44c21a0511bc8": {
+            "format": "jpg",
+            "id": "dfe17813dba2b91f32e44c21a0511bc8",
+            "name": "n02112018_14257.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_14257.jpg",
+            "size": {
+                "width": 500,
+                "height": 331
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4e5d1e4afa02cf0deec2aa7faa3e644f": {
+            "format": "jpg",
+            "id": "4e5d1e4afa02cf0deec2aa7faa3e644f",
+            "name": "n02112018_14394.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_14394.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "920cd0e54641b879ea572cc2f7c8035d": {
+            "format": "jpg",
+            "id": "920cd0e54641b879ea572cc2f7c8035d",
+            "name": "n02112018_14468.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_14468.jpg",
+            "size": {
+                "width": 413,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6d54b898492b40a1630450c118e3d791": {
+            "format": "jpg",
+            "id": "6d54b898492b40a1630450c118e3d791",
+            "name": "n02112018_14482.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_14482.jpg",
+            "size": {
+                "width": 800,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bab581510e5a7b7e1d0752d068d64a89": {
+            "format": "jpg",
+            "id": "bab581510e5a7b7e1d0752d068d64a89",
+            "name": "n02112018_1462.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_1462.jpg",
+            "size": {
+                "width": 334,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a1006b00760122bb632d90b06efe6036": {
+            "format": "jpg",
+            "id": "a1006b00760122bb632d90b06efe6036",
+            "name": "n02112018_1463.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_1463.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "da1e288b71eddb53627a2feab17b7fff": {
+            "format": "jpg",
+            "id": "da1e288b71eddb53627a2feab17b7fff",
+            "name": "n02112018_1486.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_1486.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3b38d9740f3fd5dd1c2ca4f0a3ecd39f": {
+            "format": "jpg",
+            "id": "3b38d9740f3fd5dd1c2ca4f0a3ecd39f",
+            "name": "n02112018_1495.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_1495.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "de3cf7b2b42a2c662b5d843b58fb550b": {
+            "format": "jpg",
+            "id": "de3cf7b2b42a2c662b5d843b58fb550b",
+            "name": "n02112018_150.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_150.jpg",
+            "size": {
+                "width": 500,
+                "height": 227
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ebda80732df6d26134228ead9d001def": {
+            "format": "jpg",
+            "id": "ebda80732df6d26134228ead9d001def",
+            "name": "n02112018_1518.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_1518.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7f6e0af38066d4923cb63c386bed0d42": {
+            "format": "jpg",
+            "id": "7f6e0af38066d4923cb63c386bed0d42",
+            "name": "n02112018_1556.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_1556.jpg",
+            "size": {
+                "width": 400,
+                "height": 336
+            },
+            "state": 2,
+            "type": 1
+        },
+        "55ddc63f61c96fc313faf63457a52b49": {
+            "format": "jpg",
+            "id": "55ddc63f61c96fc313faf63457a52b49",
+            "name": "n02112018_1561.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_1561.jpg",
+            "size": {
+                "width": 500,
+                "height": 451
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7db985a93ad2e54b14b3e6ef53e47834": {
+            "format": "jpg",
+            "id": "7db985a93ad2e54b14b3e6ef53e47834",
+            "name": "n02112018_1577.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_1577.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "42814a2f6e0aedb6efb107111bad4a8f": {
+            "format": "jpg",
+            "id": "42814a2f6e0aedb6efb107111bad4a8f",
+            "name": "n02112018_1584.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_1584.jpg",
+            "size": {
+                "width": 333,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9e8c6df55e501caa8db907119506b45c": {
+            "format": "jpg",
+            "id": "9e8c6df55e501caa8db907119506b45c",
+            "name": "n02112018_161.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_161.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "785b15331df39753f4bd4ce772897d94": {
+            "format": "jpg",
+            "id": "785b15331df39753f4bd4ce772897d94",
+            "name": "n02112018_1611.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_1611.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e27c68fd0e037bdc83c2070ea56835cf": {
+            "format": "jpg",
+            "id": "e27c68fd0e037bdc83c2070ea56835cf",
+            "name": "n02112018_1612.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_1612.jpg",
+            "size": {
+                "width": 333,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f2d882b5d73ecc5f8e45cf34de2ed356": {
+            "format": "jpg",
+            "id": "f2d882b5d73ecc5f8e45cf34de2ed356",
+            "name": "n02112018_1621.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_1621.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b290f2277fa6edde728d1afaae8b9170": {
+            "format": "jpg",
+            "id": "b290f2277fa6edde728d1afaae8b9170",
+            "name": "n02112018_1659.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_1659.jpg",
+            "size": {
+                "width": 500,
+                "height": 376
+            },
+            "state": 1,
+            "type": 1
+        },
+        "82e4f2211cf8e53ec6b30d7594ac183f": {
+            "format": "jpg",
+            "id": "82e4f2211cf8e53ec6b30d7594ac183f",
+            "name": "n02112018_1705.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_1705.jpg",
+            "size": {
+                "width": 500,
+                "height": 439
+            },
+            "state": 2,
+            "type": 1
+        },
+        "85027b1af8fe2b617348f4b47938e4bd": {
+            "format": "jpg",
+            "id": "85027b1af8fe2b617348f4b47938e4bd",
+            "name": "n02112018_1816.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_1816.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "db968da60111428f5b0786d3770b8659": {
+            "format": "jpg",
+            "id": "db968da60111428f5b0786d3770b8659",
+            "name": "n02112018_1929.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_1929.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "50376b385a2f9ae4b5970a2a756c8fbd": {
+            "format": "jpg",
+            "id": "50376b385a2f9ae4b5970a2a756c8fbd",
+            "name": "n02112018_1954.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_1954.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b04c0694508770a2fce99e8a383a22ad": {
+            "format": "jpg",
+            "id": "b04c0694508770a2fce99e8a383a22ad",
+            "name": "n02112018_2154.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_2154.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "916f7bafeaaac480c0e4a15bb6b1d97c": {
+            "format": "jpg",
+            "id": "916f7bafeaaac480c0e4a15bb6b1d97c",
+            "name": "n02112018_2207.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_2207.jpg",
+            "size": {
+                "width": 463,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d6c99996026f3df0ac0a15d11668f1af": {
+            "format": "jpg",
+            "id": "d6c99996026f3df0ac0a15d11668f1af",
+            "name": "n02112018_2218.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_2218.jpg",
+            "size": {
+                "width": 370,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "29816c62e932cde0afb8537b575db636": {
+            "format": "jpg",
+            "id": "29816c62e932cde0afb8537b575db636",
+            "name": "n02112018_2255.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_2255.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 1,
+            "type": 1
+        },
+        "6c44c8a0ffb9f7dba2e43c2b753c466d": {
+            "format": "jpg",
+            "id": "6c44c8a0ffb9f7dba2e43c2b753c466d",
+            "name": "n02112018_2271.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_2271.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "efe2956bfd9305096f4aa15833be53d9": {
+            "format": "jpg",
+            "id": "efe2956bfd9305096f4aa15833be53d9",
+            "name": "n02112018_2277.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_2277.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a3268e61e1c13f8d50b83e15cc8c943f": {
+            "format": "jpg",
+            "id": "a3268e61e1c13f8d50b83e15cc8c943f",
+            "name": "n02112018_2288.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_2288.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ef537fb8ed2d04689c9eae60efccc3d1": {
+            "format": "jpg",
+            "id": "ef537fb8ed2d04689c9eae60efccc3d1",
+            "name": "n02112018_2314.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_2314.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "757ac2b4cba92fbeac4b7aff8cf6fe1e": {
+            "format": "jpg",
+            "id": "757ac2b4cba92fbeac4b7aff8cf6fe1e",
+            "name": "n02112018_2336.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_2336.jpg",
+            "size": {
+                "width": 750,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7549a9e112a253677dd645d8677ba804": {
+            "format": "jpg",
+            "id": "7549a9e112a253677dd645d8677ba804",
+            "name": "n02112018_2380.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_2380.jpg",
+            "size": {
+                "width": 300,
+                "height": 249
+            },
+            "state": 1,
+            "type": 1
+        },
+        "a06a3a46d717b928416cafd04bf235ab": {
+            "format": "jpg",
+            "id": "a06a3a46d717b928416cafd04bf235ab",
+            "name": "n02112018_2483.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_2483.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c8f016052b7c50f0d251dc0798647121": {
+            "format": "jpg",
+            "id": "c8f016052b7c50f0d251dc0798647121",
+            "name": "n02112018_249.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_249.jpg",
+            "size": {
+                "width": 500,
+                "height": 428
+            },
+            "state": 2,
+            "type": 1
+        },
+        "097ba96c139cfb4f53b639bc70c89c0e": {
+            "format": "jpg",
+            "id": "097ba96c139cfb4f53b639bc70c89c0e",
+            "name": "n02112018_2590.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_2590.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "eb7e0a9f8fb4096884f9c266acacf864": {
+            "format": "jpg",
+            "id": "eb7e0a9f8fb4096884f9c266acacf864",
+            "name": "n02112018_2614.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_2614.jpg",
+            "size": {
+                "width": 500,
+                "height": 371
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5f34efad268c78d9b7e0339efaf77a73": {
+            "format": "jpg",
+            "id": "5f34efad268c78d9b7e0339efaf77a73",
+            "name": "n02112018_2691.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_2691.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a0148eee7ef9e8645eadb67d15573c16": {
+            "format": "jpg",
+            "id": "a0148eee7ef9e8645eadb67d15573c16",
+            "name": "n02112018_2699.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_2699.jpg",
+            "size": {
+                "width": 374,
+                "height": 424
+            },
+            "state": 2,
+            "type": 1
+        },
+        "84755d8b6bf81dc2bd034cdb9589ac52": {
+            "format": "jpg",
+            "id": "84755d8b6bf81dc2bd034cdb9589ac52",
+            "name": "n02112018_2711.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_2711.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "866989e864bb3380a9229f93a4448496": {
+            "format": "jpg",
+            "id": "866989e864bb3380a9229f93a4448496",
+            "name": "n02112018_2728.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_2728.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "42b9a7a27dbcd1448bb749621fa99e86": {
+            "format": "jpg",
+            "id": "42b9a7a27dbcd1448bb749621fa99e86",
+            "name": "n02112018_276.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_276.jpg",
+            "size": {
+                "width": 415,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7c14e4715de4d27b2784850f69f935dc": {
+            "format": "jpg",
+            "id": "7c14e4715de4d27b2784850f69f935dc",
+            "name": "n02112018_2782.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_2782.jpg",
+            "size": {
+                "width": 374,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "35c29236c7f86c7d50b472e62aa77ca9": {
+            "format": "jpg",
+            "id": "35c29236c7f86c7d50b472e62aa77ca9",
+            "name": "n02112018_2786.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_2786.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "38a94d0a2a8a9c3dc118ff08ad3f5cf9": {
+            "format": "jpg",
+            "id": "38a94d0a2a8a9c3dc118ff08ad3f5cf9",
+            "name": "n02112018_2790.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_2790.jpg",
+            "size": {
+                "width": 800,
+                "height": 600
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3ba647a61fe17f8b4878809d82bf8235": {
+            "format": "jpg",
+            "id": "3ba647a61fe17f8b4878809d82bf8235",
+            "name": "n02112018_2811.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_2811.jpg",
+            "size": {
+                "width": 473,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "541fcee16f349816d967cd71a076c724": {
+            "format": "jpg",
+            "id": "541fcee16f349816d967cd71a076c724",
+            "name": "n02112018_2821.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_2821.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a498d3b5e31ed7f0811850cf6df70f08": {
+            "format": "jpg",
+            "id": "a498d3b5e31ed7f0811850cf6df70f08",
+            "name": "n02112018_2846.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_2846.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b40a43608060eeb43c3862c280d6aa68": {
+            "format": "jpg",
+            "id": "b40a43608060eeb43c3862c280d6aa68",
+            "name": "n02112018_2896.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_2896.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d18105ed9145a44b113a127908ca25e2": {
+            "format": "jpg",
+            "id": "d18105ed9145a44b113a127908ca25e2",
+            "name": "n02112018_290.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_290.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1eb424a14a5a32d25c835e88f15ec8ee": {
+            "format": "jpg",
+            "id": "1eb424a14a5a32d25c835e88f15ec8ee",
+            "name": "n02112018_2931.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_2931.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fa3695c1f8da4b81bbc931884debdeda": {
+            "format": "jpg",
+            "id": "fa3695c1f8da4b81bbc931884debdeda",
+            "name": "n02112018_2991.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_2991.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 1,
+            "type": 1
+        },
+        "2918ecbea3a1225197e01da8837f2d8d": {
+            "format": "jpg",
+            "id": "2918ecbea3a1225197e01da8837f2d8d",
+            "name": "n02112018_3033.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_3033.jpg",
+            "size": {
+                "width": 500,
+                "height": 446
+            },
+            "state": 2,
+            "type": 1
+        },
+        "af8b845c82d3a25d6299c75da8fa242d": {
+            "format": "jpg",
+            "id": "af8b845c82d3a25d6299c75da8fa242d",
+            "name": "n02112018_3064.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_3064.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "11888f79b91500e5ee597f4329820290": {
+            "format": "jpg",
+            "id": "11888f79b91500e5ee597f4329820290",
+            "name": "n02112018_3090.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_3090.jpg",
+            "size": {
+                "width": 349,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d138ede8587d2d4482e87945208a65b7": {
+            "format": "jpg",
+            "id": "d138ede8587d2d4482e87945208a65b7",
+            "name": "n02112018_3097.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_3097.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e9b4e9629299aac8a1706038eb6e9a91": {
+            "format": "jpg",
+            "id": "e9b4e9629299aac8a1706038eb6e9a91",
+            "name": "n02112018_3126.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_3126.jpg",
+            "size": {
+                "width": 333,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7eee00f2d790d86a9c2f0e5c4da939ab": {
+            "format": "jpg",
+            "id": "7eee00f2d790d86a9c2f0e5c4da939ab",
+            "name": "n02112018_3133.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_3133.jpg",
+            "size": {
+                "width": 334,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "da812ce331b69a13f964a912267cff7e": {
+            "format": "jpg",
+            "id": "da812ce331b69a13f964a912267cff7e",
+            "name": "n02112018_3203.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_3203.jpg",
+            "size": {
+                "width": 500,
+                "height": 322
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8678e47b9920a88d89ec837f1dbfa9cf": {
+            "format": "jpg",
+            "id": "8678e47b9920a88d89ec837f1dbfa9cf",
+            "name": "n02112018_3302.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_3302.jpg",
+            "size": {
+                "width": 317,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "30febace032c6580ec0b89f1cdae7303": {
+            "format": "jpg",
+            "id": "30febace032c6580ec0b89f1cdae7303",
+            "name": "n02112018_336.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_336.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a26c097619863d78a7c4fb7e2d6fe346": {
+            "format": "jpg",
+            "id": "a26c097619863d78a7c4fb7e2d6fe346",
+            "name": "n02112018_3427.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_3427.jpg",
+            "size": {
+                "width": 316,
+                "height": 475
+            },
+            "state": 2,
+            "type": 1
+        },
+        "be8ea25e99ed270c4929c885810915fa": {
+            "format": "jpg",
+            "id": "be8ea25e99ed270c4929c885810915fa",
+            "name": "n02112018_3494.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_3494.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "85296d3ddb9ea3af609bb0bfd601c1ae": {
+            "format": "jpg",
+            "id": "85296d3ddb9ea3af609bb0bfd601c1ae",
+            "name": "n02112018_3464.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_3464.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2d6d1760346bc498a7eb1f50fe8a0596": {
+            "format": "jpg",
+            "id": "2d6d1760346bc498a7eb1f50fe8a0596",
+            "name": "n02112018_3504.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_3504.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "313602a79342d60c3a359237cb5a3805": {
+            "format": "jpg",
+            "id": "313602a79342d60c3a359237cb5a3805",
+            "name": "n02112018_3532.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_3532.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "73297140a8927ec81fd5c05ff2df3134": {
+            "format": "jpg",
+            "id": "73297140a8927ec81fd5c05ff2df3134",
+            "name": "n02112018_3539.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_3539.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "93a624144473bb3616287967918255f9": {
+            "format": "jpg",
+            "id": "93a624144473bb3616287967918255f9",
+            "name": "n02112018_354.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_354.jpg",
+            "size": {
+                "width": 360,
+                "height": 226
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fe6fbe99f0f99cc7c63af419c587af27": {
+            "format": "jpg",
+            "id": "fe6fbe99f0f99cc7c63af419c587af27",
+            "name": "n02112018_3599.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_3599.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "05a5be93f29406b1ab366e16f68aab1c": {
+            "format": "jpg",
+            "id": "05a5be93f29406b1ab366e16f68aab1c",
+            "name": "n02112018_3666.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_3666.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2756beecdcaf31d839c870209297e08b": {
+            "format": "jpg",
+            "id": "2756beecdcaf31d839c870209297e08b",
+            "name": "n02112018_3737.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_3737.jpg",
+            "size": {
+                "width": 229,
+                "height": 186
+            },
+            "state": 2,
+            "type": 1
+        },
+        "02784e98a31501ad1a39782d64ea4a60": {
+            "format": "jpg",
+            "id": "02784e98a31501ad1a39782d64ea4a60",
+            "name": "n02112018_3742.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_3742.jpg",
+            "size": {
+                "width": 401,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "da340ce867ad1bde767874406b0add36": {
+            "format": "jpg",
+            "id": "da340ce867ad1bde767874406b0add36",
+            "name": "n02112018_3812.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_3812.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0aa32e116f6bee6e793e666477a0c054": {
+            "format": "jpg",
+            "id": "0aa32e116f6bee6e793e666477a0c054",
+            "name": "n02112018_3867.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_3867.jpg",
+            "size": {
+                "width": 500,
+                "height": 385
+            },
+            "state": 2,
+            "type": 1
+        },
+        "06df3bac6f6f8d8ac602dd270d1a3fe7": {
+            "format": "jpg",
+            "id": "06df3bac6f6f8d8ac602dd270d1a3fe7",
+            "name": "n02112018_3917.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_3917.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "34c481aaafb1162233ccdc50144bd671": {
+            "format": "jpg",
+            "id": "34c481aaafb1162233ccdc50144bd671",
+            "name": "n02112018_4035.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_4035.jpg",
+            "size": {
+                "width": 500,
+                "height": 376
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aa6abbf8024d85cdaa9a727456f88be0": {
+            "format": "jpg",
+            "id": "aa6abbf8024d85cdaa9a727456f88be0",
+            "name": "n02112018_4148.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_4148.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 1,
+            "type": 1
+        },
+        "1c6c0433677b89f6026a6c90a6dce5f8": {
+            "format": "jpg",
+            "id": "1c6c0433677b89f6026a6c90a6dce5f8",
+            "name": "n02112018_4206.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_4206.jpg",
+            "size": {
+                "width": 500,
+                "height": 452
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a492b76ca88e58cb2753fdad36c48b40": {
+            "format": "jpg",
+            "id": "a492b76ca88e58cb2753fdad36c48b40",
+            "name": "n02112018_4243.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_4243.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e8b10d2c59a178846aa3cf9e3a1edeea": {
+            "format": "jpg",
+            "id": "e8b10d2c59a178846aa3cf9e3a1edeea",
+            "name": "n02112018_4245.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_4245.jpg",
+            "size": {
+                "width": 273,
+                "height": 292
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e2784cb5a62f4acff673b53cc23a641c": {
+            "format": "jpg",
+            "id": "e2784cb5a62f4acff673b53cc23a641c",
+            "name": "n02112018_4296.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_4296.jpg",
+            "size": {
+                "width": 288,
+                "height": 309
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8476f24e896ec7a3fa9863d8a790e803": {
+            "format": "jpg",
+            "id": "8476f24e896ec7a3fa9863d8a790e803",
+            "name": "n02112018_436.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_436.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6a26444fb85f0e7e9e50dc89c6b442d7": {
+            "format": "jpg",
+            "id": "6a26444fb85f0e7e9e50dc89c6b442d7",
+            "name": "n02112018_4373.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_4373.jpg",
+            "size": {
+                "width": 264,
+                "height": 397
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6606722036f7f26adf0c0c2d2cbbbf4c": {
+            "format": "jpg",
+            "id": "6606722036f7f26adf0c0c2d2cbbbf4c",
+            "name": "n02112018_4456.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_4456.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9937dcc9496e994dcfa7d6c907e33f67": {
+            "format": "jpg",
+            "id": "9937dcc9496e994dcfa7d6c907e33f67",
+            "name": "n02112018_4554.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_4554.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "eabc3fa22922c45301cbfdcd32c09133": {
+            "format": "jpg",
+            "id": "eabc3fa22922c45301cbfdcd32c09133",
+            "name": "n02112018_4583.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_4583.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "65cd9f8907791a1b33cfcd075a6d39c2": {
+            "format": "jpg",
+            "id": "65cd9f8907791a1b33cfcd075a6d39c2",
+            "name": "n02112018_4586.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_4586.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dd8eff104c8c854299416ff325271056": {
+            "format": "jpg",
+            "id": "dd8eff104c8c854299416ff325271056",
+            "name": "n02112018_4597.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_4597.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "be16df9fd2723fe1c80cf58dc981b021": {
+            "format": "jpg",
+            "id": "be16df9fd2723fe1c80cf58dc981b021",
+            "name": "n02112018_4639.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_4639.jpg",
+            "size": {
+                "width": 333,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "edc07461435a8448bc18c48bb2594395": {
+            "format": "jpg",
+            "id": "edc07461435a8448bc18c48bb2594395",
+            "name": "n02112018_4644.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_4644.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e32307316d26e7c12b132888109c5a67": {
+            "format": "jpg",
+            "id": "e32307316d26e7c12b132888109c5a67",
+            "name": "n02112018_4813.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_4813.jpg",
+            "size": {
+                "width": 304,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ccef362a660b1f2148ffab260888e4eb": {
+            "format": "jpg",
+            "id": "ccef362a660b1f2148ffab260888e4eb",
+            "name": "n02112018_4815.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_4815.jpg",
+            "size": {
+                "width": 500,
+                "height": 334
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7725f328cb26066357dfec5f59a8c472": {
+            "format": "jpg",
+            "id": "7725f328cb26066357dfec5f59a8c472",
+            "name": "n02112018_4840.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_4840.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "179e7f84fbad38a8164ea7220b76141f": {
+            "format": "jpg",
+            "id": "179e7f84fbad38a8164ea7220b76141f",
+            "name": "n02112018_4928.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_4928.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 1,
+            "type": 1
+        },
+        "f4a35f44da7cb7b6948c3cb61bd672c9": {
+            "format": "jpg",
+            "id": "f4a35f44da7cb7b6948c3cb61bd672c9",
+            "name": "n02112018_4936.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_4936.jpg",
+            "size": {
+                "width": 205,
+                "height": 143
+            },
+            "state": 2,
+            "type": 1
+        },
+        "082057d080a5c5dedc95d4927ba230b8": {
+            "format": "jpg",
+            "id": "082057d080a5c5dedc95d4927ba230b8",
+            "name": "n02112018_4958.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_4958.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "95cc56a67351a587fa97f6b0bbc05197": {
+            "format": "jpg",
+            "id": "95cc56a67351a587fa97f6b0bbc05197",
+            "name": "n02112018_5089.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5089.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e904343e249dc11aa733a6c0f9108125": {
+            "format": "jpg",
+            "id": "e904343e249dc11aa733a6c0f9108125",
+            "name": "n02112018_5091.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5091.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2fe1089b91e26ed64825bf2ee1b939b2": {
+            "format": "jpg",
+            "id": "2fe1089b91e26ed64825bf2ee1b939b2",
+            "name": "n02112018_5094.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5094.jpg",
+            "size": {
+                "width": 500,
+                "height": 377
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4939e4634d5f61937e6ef27ebaa5a1ea": {
+            "format": "jpg",
+            "id": "4939e4634d5f61937e6ef27ebaa5a1ea",
+            "name": "n02112018_514.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_514.jpg",
+            "size": {
+                "width": 496,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a5e880f967b39de21269db2ebcb93e8d": {
+            "format": "jpg",
+            "id": "a5e880f967b39de21269db2ebcb93e8d",
+            "name": "n02112018_5165.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5165.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a661638f27787d1509f7dafb16f615da": {
+            "format": "jpg",
+            "id": "a661638f27787d1509f7dafb16f615da",
+            "name": "n02112018_5208.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5208.jpg",
+            "size": {
+                "width": 320,
+                "height": 240
+            },
+            "state": 2,
+            "type": 1
+        },
+        "513a7513ef505f6be42215a714cdd816": {
+            "format": "jpg",
+            "id": "513a7513ef505f6be42215a714cdd816",
+            "name": "n02112018_5317.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5317.jpg",
+            "size": {
+                "width": 500,
+                "height": 339
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ec3ecadc502cdf652c2843ce92ba18ad": {
+            "format": "jpg",
+            "id": "ec3ecadc502cdf652c2843ce92ba18ad",
+            "name": "n02112018_5329.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5329.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "95cfea08b2245398a7e0db2693dad812": {
+            "format": "jpg",
+            "id": "95cfea08b2245398a7e0db2693dad812",
+            "name": "n02112018_5330.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5330.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "457cca9add3f1221e4512fd1d8220355": {
+            "format": "jpg",
+            "id": "457cca9add3f1221e4512fd1d8220355",
+            "name": "n02112018_5349.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5349.jpg",
+            "size": {
+                "width": 467,
+                "height": 479
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c3dea6493827f5332247196191bfbf9c": {
+            "format": "jpg",
+            "id": "c3dea6493827f5332247196191bfbf9c",
+            "name": "n02112018_5367.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5367.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "37b61f06f66a42ed0accf1500a42049a": {
+            "format": "jpg",
+            "id": "37b61f06f66a42ed0accf1500a42049a",
+            "name": "n02112018_541.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_541.jpg",
+            "size": {
+                "width": 500,
+                "height": 488
+            },
+            "state": 2,
+            "type": 1
+        },
+        "80b9939421747666f75a50e659c8dd4c": {
+            "format": "jpg",
+            "id": "80b9939421747666f75a50e659c8dd4c",
+            "name": "n02112018_5427.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5427.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ae94598156e40ae686ac7c7aca25d96b": {
+            "format": "jpg",
+            "id": "ae94598156e40ae686ac7c7aca25d96b",
+            "name": "n02112018_5482.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5482.jpg",
+            "size": {
+                "width": 500,
+                "height": 376
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2a6915ef0b3081f0072b02bb8c0c0ea3": {
+            "format": "jpg",
+            "id": "2a6915ef0b3081f0072b02bb8c0c0ea3",
+            "name": "n02112018_5515.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5515.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 1,
+            "type": 1
+        },
+        "7653caf571219d33fe36ec18138207e6": {
+            "format": "jpg",
+            "id": "7653caf571219d33fe36ec18138207e6",
+            "name": "n02112018_554.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_554.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5e94fbf01e38645ed1da316da8d6085c": {
+            "format": "jpg",
+            "id": "5e94fbf01e38645ed1da316da8d6085c",
+            "name": "n02112018_5540.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5540.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7de1d2cddcda45d90a67fb454ba9099d": {
+            "format": "jpg",
+            "id": "7de1d2cddcda45d90a67fb454ba9099d",
+            "name": "n02112018_5554.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5554.jpg",
+            "size": {
+                "width": 360,
+                "height": 270
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3f4c95e76e841c87f3208c2257599b3f": {
+            "format": "jpg",
+            "id": "3f4c95e76e841c87f3208c2257599b3f",
+            "name": "n02112018_5560.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5560.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1de7785f249ecbed6b10dd8a6eb708c4": {
+            "format": "jpg",
+            "id": "1de7785f249ecbed6b10dd8a6eb708c4",
+            "name": "n02112018_5697.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5697.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "27995b8cf671f17dc6a10e49cfc9753f": {
+            "format": "jpg",
+            "id": "27995b8cf671f17dc6a10e49cfc9753f",
+            "name": "n02112018_5700.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5700.jpg",
+            "size": {
+                "width": 270,
+                "height": 360
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8ffbf15b27f96e516730054f65471c11": {
+            "format": "jpg",
+            "id": "8ffbf15b27f96e516730054f65471c11",
+            "name": "n02112018_5738.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5738.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5ddcac0a8b3613d98136953b6a25e9f2": {
+            "format": "jpg",
+            "id": "5ddcac0a8b3613d98136953b6a25e9f2",
+            "name": "n02112018_5778.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5778.jpg",
+            "size": {
+                "width": 332,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "32c60d391e22b06edb50280484c0115d": {
+            "format": "jpg",
+            "id": "32c60d391e22b06edb50280484c0115d",
+            "name": "n02112018_5807.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5807.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 1,
+            "type": 1
+        },
+        "1cb981febfb3e51d20e022baf1aa6968": {
+            "format": "jpg",
+            "id": "1cb981febfb3e51d20e022baf1aa6968",
+            "name": "n02112018_5812.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5812.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7756ab4e52b26b500c4e2ae942db5824": {
+            "format": "jpg",
+            "id": "7756ab4e52b26b500c4e2ae942db5824",
+            "name": "n02112018_5814.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5814.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7fd7036612b53b89172624c656c4bb6b": {
+            "format": "jpg",
+            "id": "7fd7036612b53b89172624c656c4bb6b",
+            "name": "n02112018_5840.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5840.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cb51db0da307a4fc873c1f646d7df26b": {
+            "format": "jpg",
+            "id": "cb51db0da307a4fc873c1f646d7df26b",
+            "name": "n02112018_5860.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5860.jpg",
+            "size": {
+                "width": 333,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a91f281995c9040f56a6834c97324010": {
+            "format": "jpg",
+            "id": "a91f281995c9040f56a6834c97324010",
+            "name": "n02112018_5864.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5864.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3b7b1c866003356446b50d378838092f": {
+            "format": "jpg",
+            "id": "3b7b1c866003356446b50d378838092f",
+            "name": "n02112018_5888.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5888.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9107c7e442fd478f94059c29df0586f4": {
+            "format": "jpg",
+            "id": "9107c7e442fd478f94059c29df0586f4",
+            "name": "n02112018_5936.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5936.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f08593afa1fc815aa294c6abccdf5639": {
+            "format": "jpg",
+            "id": "f08593afa1fc815aa294c6abccdf5639",
+            "name": "n02112018_5959.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5959.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9b993db2ce77270cda77644a11d52244": {
+            "format": "jpg",
+            "id": "9b993db2ce77270cda77644a11d52244",
+            "name": "n02112018_5961.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_5961.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "db496acc03a050fa94acf7a0943427c1": {
+            "format": "jpg",
+            "id": "db496acc03a050fa94acf7a0943427c1",
+            "name": "n02112018_598.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_598.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ba5ee468bf410bcb840fca611195e1eb": {
+            "format": "jpg",
+            "id": "ba5ee468bf410bcb840fca611195e1eb",
+            "name": "n02112018_6098.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_6098.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6e1591066abc73d7b8e3d8bd77133be7": {
+            "format": "jpg",
+            "id": "6e1591066abc73d7b8e3d8bd77133be7",
+            "name": "n02112018_6110.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_6110.jpg",
+            "size": {
+                "width": 500,
+                "height": 374
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9cd8d51453c7c4e7e86b5fd7a35e45ea": {
+            "format": "jpg",
+            "id": "9cd8d51453c7c4e7e86b5fd7a35e45ea",
+            "name": "n02112018_6113.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_6113.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2bbe4ac5145f823616e69162c9deb27b": {
+            "format": "jpg",
+            "id": "2bbe4ac5145f823616e69162c9deb27b",
+            "name": "n02112018_612.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_612.jpg",
+            "size": {
+                "width": 500,
+                "height": 455
+            },
+            "state": 2,
+            "type": 1
+        },
+        "961819f5b16216cd76f7d1a6efa92fcc": {
+            "format": "jpg",
+            "id": "961819f5b16216cd76f7d1a6efa92fcc",
+            "name": "n02112018_6121.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_6121.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "897cdc22171a03e2d804bf1be1969a47": {
+            "format": "jpg",
+            "id": "897cdc22171a03e2d804bf1be1969a47",
+            "name": "n02112018_6129.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_6129.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 1,
+            "type": 1
+        },
+        "1b41ac8ff9cc69ba96876de31344c439": {
+            "format": "jpg",
+            "id": "1b41ac8ff9cc69ba96876de31344c439",
+            "name": "n02112018_6149.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_6149.jpg",
+            "size": {
+                "width": 374,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "df827eaf61cfd1e88a9bfc1078836ef9": {
+            "format": "jpg",
+            "id": "df827eaf61cfd1e88a9bfc1078836ef9",
+            "name": "n02112018_6159.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_6159.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4f3311bd266d577ce15bdb6ecec43ee4": {
+            "format": "jpg",
+            "id": "4f3311bd266d577ce15bdb6ecec43ee4",
+            "name": "n02112018_6182.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_6182.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ff58d8a2b1c56e7091068142484b8ef6": {
+            "format": "jpg",
+            "id": "ff58d8a2b1c56e7091068142484b8ef6",
+            "name": "n02112018_6190.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_6190.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2d06a16bae4323ae0742544ebfdeb7a9": {
+            "format": "jpg",
+            "id": "2d06a16bae4323ae0742544ebfdeb7a9",
+            "name": "n02112018_6201.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_6201.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5785c6cd63cc16280e0519eef5f87307": {
+            "format": "jpg",
+            "id": "5785c6cd63cc16280e0519eef5f87307",
+            "name": "n02112018_6208.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_6208.jpg",
+            "size": {
+                "width": 500,
+                "height": 331
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c2d8ac0bc96a449bc5f0ea3232c670ce": {
+            "format": "jpg",
+            "id": "c2d8ac0bc96a449bc5f0ea3232c670ce",
+            "name": "n02112018_6214.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_6214.jpg",
+            "size": {
+                "width": 500,
+                "height": 400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d189613dd099260310d2ebef6b95f491": {
+            "format": "jpg",
+            "id": "d189613dd099260310d2ebef6b95f491",
+            "name": "n02112018_6227.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_6227.jpg",
+            "size": {
+                "width": 500,
+                "height": 315
+            },
+            "state": 2,
+            "type": 1
+        },
+        "696512014949f895edd9d00e1501bfd1": {
+            "format": "jpg",
+            "id": "696512014949f895edd9d00e1501bfd1",
+            "name": "n02112018_627.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_627.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "344b9cda3643424fbb09bf3a5bc36466": {
+            "format": "jpg",
+            "id": "344b9cda3643424fbb09bf3a5bc36466",
+            "name": "n02112018_6319.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_6319.jpg",
+            "size": {
+                "width": 425,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2ef36ee5370045dc6c975d662df00670": {
+            "format": "jpg",
+            "id": "2ef36ee5370045dc6c975d662df00670",
+            "name": "n02112018_651.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_651.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "965ad9f3f8953e33c8dd07a404667795": {
+            "format": "jpg",
+            "id": "965ad9f3f8953e33c8dd07a404667795",
+            "name": "n02112018_653.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_653.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fb595c24bd5323b10f24b9fe8b4de378": {
+            "format": "jpg",
+            "id": "fb595c24bd5323b10f24b9fe8b4de378",
+            "name": "n02112018_6676.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_6676.jpg",
+            "size": {
+                "width": 476,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a99c2ae20d4d7d8ed50bb20c487bc6f1": {
+            "format": "jpg",
+            "id": "a99c2ae20d4d7d8ed50bb20c487bc6f1",
+            "name": "n02112018_6832.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_6832.jpg",
+            "size": {
+                "width": 400,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e07fb7e3a2cea9f5e6c7611a2772709b": {
+            "format": "jpg",
+            "id": "e07fb7e3a2cea9f5e6c7611a2772709b",
+            "name": "n02112018_687.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_687.jpg",
+            "size": {
+                "width": 424,
+                "height": 343
+            },
+            "state": 2,
+            "type": 1
+        },
+        "02c352b05ba0533020cf2548baac23a3": {
+            "format": "jpg",
+            "id": "02c352b05ba0533020cf2548baac23a3",
+            "name": "n02112018_692.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_692.jpg",
+            "size": {
+                "width": 500,
+                "height": 376
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1a15416339fec939a4c4b11d080d2d97": {
+            "format": "jpg",
+            "id": "1a15416339fec939a4c4b11d080d2d97",
+            "name": "n02112018_7019.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_7019.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "02b1ec96322abbf8c0fec9d3a79bcb30": {
+            "format": "jpg",
+            "id": "02b1ec96322abbf8c0fec9d3a79bcb30",
+            "name": "n02112018_7103.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_7103.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c9e27d843f8dc076a76336fb02a91df1": {
+            "format": "jpg",
+            "id": "c9e27d843f8dc076a76336fb02a91df1",
+            "name": "n02112018_7127.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_7127.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "97473f30434d2f2738b6a7008c26e3a2": {
+            "format": "jpg",
+            "id": "97473f30434d2f2738b6a7008c26e3a2",
+            "name": "n02112018_7157.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_7157.jpg",
+            "size": {
+                "width": 382,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "841ffb483140b0aed262a08db5d840e0": {
+            "format": "jpg",
+            "id": "841ffb483140b0aed262a08db5d840e0",
+            "name": "n02112018_725.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_725.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0c13a522b7bd289452755ed9bcf528d8": {
+            "format": "jpg",
+            "id": "0c13a522b7bd289452755ed9bcf528d8",
+            "name": "n02112018_7341.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_7341.jpg",
+            "size": {
+                "width": 421,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c39988cadf641b039df3e99068a11195": {
+            "format": "jpg",
+            "id": "c39988cadf641b039df3e99068a11195",
+            "name": "n02112018_7460.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_7460.jpg",
+            "size": {
+                "width": 335,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "69fc57b90900e0bac5ff839f9f287af2": {
+            "format": "jpg",
+            "id": "69fc57b90900e0bac5ff839f9f287af2",
+            "name": "n02112018_7552.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_7552.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d82cbd5b923da6219e098c425c41e3b7": {
+            "format": "jpg",
+            "id": "d82cbd5b923da6219e098c425c41e3b7",
+            "name": "n02112018_7707.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_7707.jpg",
+            "size": {
+                "width": 348,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bcb8d17a9d6b8efbe70d2bcdb4bdc849": {
+            "format": "jpg",
+            "id": "bcb8d17a9d6b8efbe70d2bcdb4bdc849",
+            "name": "n02112018_7802.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_7802.jpg",
+            "size": {
+                "width": 334,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2edb92f5ab5409cfda7d1fde12a7846b": {
+            "format": "jpg",
+            "id": "2edb92f5ab5409cfda7d1fde12a7846b",
+            "name": "n02112018_7880.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_7880.jpg",
+            "size": {
+                "width": 361,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c2decfd92f22d77db47e7556cfdb33e8": {
+            "format": "jpg",
+            "id": "c2decfd92f22d77db47e7556cfdb33e8",
+            "name": "n02112018_7953.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_7953.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1bdb559880721a6453dfc9d8fbb59adb": {
+            "format": "jpg",
+            "id": "1bdb559880721a6453dfc9d8fbb59adb",
+            "name": "n02112018_8161.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_8161.jpg",
+            "size": {
+                "width": 414,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f6c2a4e8dbef1e736168b26278944528": {
+            "format": "jpg",
+            "id": "f6c2a4e8dbef1e736168b26278944528",
+            "name": "n02112018_8246.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_8246.jpg",
+            "size": {
+                "width": 500,
+                "height": 340
+            },
+            "state": 2,
+            "type": 1
+        },
+        "33c27296d5dbdff08127dabf9e661cb3": {
+            "format": "jpg",
+            "id": "33c27296d5dbdff08127dabf9e661cb3",
+            "name": "n02112018_8351.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_8351.jpg",
+            "size": {
+                "width": 333,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "df19781dae1c1a86f68406205a3f3304": {
+            "format": "jpg",
+            "id": "df19781dae1c1a86f68406205a3f3304",
+            "name": "n02112018_863.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_863.jpg",
+            "size": {
+                "width": 500,
+                "height": 379
+            },
+            "state": 2,
+            "type": 1
+        },
+        "333f6277b4450646edc1ccd5280a222e": {
+            "format": "jpg",
+            "id": "333f6277b4450646edc1ccd5280a222e",
+            "name": "n02112018_869.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_869.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "642b286fd5955c80826a9e265ce3567f": {
+            "format": "jpg",
+            "id": "642b286fd5955c80826a9e265ce3567f",
+            "name": "n02112018_8745.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_8745.jpg",
+            "size": {
+                "width": 500,
+                "height": 436
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c76a9f28bd78ddaf1e3a45cb06c2ab64": {
+            "format": "jpg",
+            "id": "c76a9f28bd78ddaf1e3a45cb06c2ab64",
+            "name": "n02112018_877.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_877.jpg",
+            "size": {
+                "width": 466,
+                "height": 311
+            },
+            "state": 2,
+            "type": 1
+        },
+        "959abc65b73d7d1b49cf15da82f5e7f2": {
+            "format": "jpg",
+            "id": "959abc65b73d7d1b49cf15da82f5e7f2",
+            "name": "n02112018_883.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_883.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1fea63815168cfa5c0fe2b177e85f895": {
+            "format": "jpg",
+            "id": "1fea63815168cfa5c0fe2b177e85f895",
+            "name": "n02112018_888.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_888.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bc49d6445063371fe72d9c7831988714": {
+            "format": "jpg",
+            "id": "bc49d6445063371fe72d9c7831988714",
+            "name": "n02112018_9028.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_9028.jpg",
+            "size": {
+                "width": 429,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bb7e84974ff5634ac305a25655eaac54": {
+            "format": "jpg",
+            "id": "bb7e84974ff5634ac305a25655eaac54",
+            "name": "n02112018_904.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_904.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "81da763df42e4141e664d9a367226475": {
+            "format": "jpg",
+            "id": "81da763df42e4141e664d9a367226475",
+            "name": "n02112018_919.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_919.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1ba351d988c608c0a025665999c69826": {
+            "format": "jpg",
+            "id": "1ba351d988c608c0a025665999c69826",
+            "name": "n02112018_9263.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_9263.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f9aa93714c55057a603bb4766ea1e28c": {
+            "format": "jpg",
+            "id": "f9aa93714c55057a603bb4766ea1e28c",
+            "name": "n02112018_9376.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_9376.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "28463f65935bc9962d390da55eff0518": {
+            "format": "jpg",
+            "id": "28463f65935bc9962d390da55eff0518",
+            "name": "n02112018_938.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_938.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "79032e37cbc8ff654db1de146e151eb4": {
+            "format": "jpg",
+            "id": "79032e37cbc8ff654db1de146e151eb4",
+            "name": "n02112018_9753.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_9753.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c132ebb526e95b4023440ccb417f3556": {
+            "format": "jpg",
+            "id": "c132ebb526e95b4023440ccb417f3556",
+            "name": "n02112018_9791.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_9791.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b6d844cba264eff680c7ed562cb37d6d": {
+            "format": "jpg",
+            "id": "b6d844cba264eff680c7ed562cb37d6d",
+            "name": "n02112018_9861.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_9861.jpg",
+            "size": {
+                "width": 500,
+                "height": 497
+            },
+            "state": 2,
+            "type": 1
+        },
+        "80dd944af1f02a0187a1dd6befee1925": {
+            "format": "jpg",
+            "id": "80dd944af1f02a0187a1dd6befee1925",
+            "name": "n02112018_9926.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/n02112018_9926.jpg",
+            "size": {
+                "width": 500,
+                "height": 331
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9f063774b05d81555f084b710add0833": {
+            "format": "jpg",
+            "id": "9f063774b05d81555f084b710add0833",
+            "name": "pomeranian_1.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_1.jpg",
+            "size": {
+                "width": 494,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "03bdc7f1d65ba2b78f9401202d947966": {
+            "format": "jpg",
+            "id": "03bdc7f1d65ba2b78f9401202d947966",
+            "name": "pomeranian_10.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_10.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "26cb9dfd6a867f5ca24bbe1ad3585479": {
+            "format": "jpg",
+            "id": "26cb9dfd6a867f5ca24bbe1ad3585479",
+            "name": "pomeranian_100.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_100.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "72c3911d857de98bbc58cace9f59155e": {
+            "format": "jpg",
+            "id": "72c3911d857de98bbc58cace9f59155e",
+            "name": "pomeranian_101.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_101.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0390eef3ede6925751df796f411b6a47": {
+            "format": "jpg",
+            "id": "0390eef3ede6925751df796f411b6a47",
+            "name": "pomeranian_102.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_102.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c1bd309772290892f0aacfdd529e8d21": {
+            "format": "jpg",
+            "id": "c1bd309772290892f0aacfdd529e8d21",
+            "name": "pomeranian_103.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_103.jpg",
+            "size": {
+                "width": 500,
+                "height": 357
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fd08c8239d5070fcaaca4140e80e02ea": {
+            "format": "jpg",
+            "id": "fd08c8239d5070fcaaca4140e80e02ea",
+            "name": "pomeranian_104.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_104.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "041860f58e440b5c43a0c1773561081d": {
+            "format": "jpg",
+            "id": "041860f58e440b5c43a0c1773561081d",
+            "name": "pomeranian_105.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_105.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d063eef288bc9f432995c19c9765bcf5": {
+            "format": "jpg",
+            "id": "d063eef288bc9f432995c19c9765bcf5",
+            "name": "pomeranian_106.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_106.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6af7fe7fd42b811e5968b5fc6ab75b78": {
+            "format": "jpg",
+            "id": "6af7fe7fd42b811e5968b5fc6ab75b78",
+            "name": "pomeranian_107.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_107.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e18db9a7df902f29d86ddd9705803251": {
+            "format": "jpg",
+            "id": "e18db9a7df902f29d86ddd9705803251",
+            "name": "pomeranian_108.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_108.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d8a0a1f05abddc150e9c86542a9a577f": {
+            "format": "jpg",
+            "id": "d8a0a1f05abddc150e9c86542a9a577f",
+            "name": "pomeranian_109.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_109.jpg",
+            "size": {
+                "width": 500,
+                "height": 332
+            },
+            "state": 2,
+            "type": 1
+        },
+        "13ad38863b4728276d6978d801f0547f": {
+            "format": "jpg",
+            "id": "13ad38863b4728276d6978d801f0547f",
+            "name": "pomeranian_11.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_11.jpg",
+            "size": {
+                "width": 500,
+                "height": 332
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fb0311bf67fc32ee820cb40ced461ff8": {
+            "format": "jpg",
+            "id": "fb0311bf67fc32ee820cb40ced461ff8",
+            "name": "pomeranian_110.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_110.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5d21709b336aa6c50e2ee693e6df28b6": {
+            "format": "jpg",
+            "id": "5d21709b336aa6c50e2ee693e6df28b6",
+            "name": "pomeranian_111.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_111.jpg",
+            "size": {
+                "width": 300,
+                "height": 253
+            },
+            "state": 2,
+            "type": 1
+        },
+        "07edf9cbd830770ee84b8e156072a475": {
+            "format": "jpg",
+            "id": "07edf9cbd830770ee84b8e156072a475",
+            "name": "pomeranian_112.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_112.jpg",
+            "size": {
+                "width": 300,
+                "height": 199
+            },
+            "state": 2,
+            "type": 1
+        },
+        "76744c47df360163a0a3c3d81800b4c2": {
+            "format": "jpg",
+            "id": "76744c47df360163a0a3c3d81800b4c2",
+            "name": "pomeranian_113.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_113.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0eb0afaf4fce28568946923cd1aa76ee": {
+            "format": "jpg",
+            "id": "0eb0afaf4fce28568946923cd1aa76ee",
+            "name": "pomeranian_114.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_114.jpg",
+            "size": {
+                "width": 198,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "69a11a4fbcb759963ee9756f46fecffb": {
+            "format": "jpg",
+            "id": "69a11a4fbcb759963ee9756f46fecffb",
+            "name": "pomeranian_115.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_115.jpg",
+            "size": {
+                "width": 300,
+                "height": 233
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c37046cb13f5a2774c8d74f9cc9e102f": {
+            "format": "jpg",
+            "id": "c37046cb13f5a2774c8d74f9cc9e102f",
+            "name": "pomeranian_116.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_116.jpg",
+            "size": {
+                "width": 225,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6c8c7ddf82808b377c4c21bf68ddea01": {
+            "format": "jpg",
+            "id": "6c8c7ddf82808b377c4c21bf68ddea01",
+            "name": "pomeranian_117.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_117.jpg",
+            "size": {
+                "width": 255,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "59afddc586dffc86cd212a94eac1a11f": {
+            "format": "jpg",
+            "id": "59afddc586dffc86cd212a94eac1a11f",
+            "name": "pomeranian_118.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_118.jpg",
+            "size": {
+                "width": 300,
+                "height": 266
+            },
+            "state": 2,
+            "type": 1
+        },
+        "83b12bb96a3e9d0ff38fd022de81c89a": {
+            "format": "jpg",
+            "id": "83b12bb96a3e9d0ff38fd022de81c89a",
+            "name": "pomeranian_119.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_119.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9ef6431ec249844a21bdef6a40db628a": {
+            "format": "jpg",
+            "id": "9ef6431ec249844a21bdef6a40db628a",
+            "name": "pomeranian_12.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_12.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b778ae30993bd5c72ca894393f08f7bd": {
+            "format": "jpg",
+            "id": "b778ae30993bd5c72ca894393f08f7bd",
+            "name": "pomeranian_120.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_120.jpg",
+            "size": {
+                "width": 300,
+                "height": 236
+            },
+            "state": 2,
+            "type": 1
+        },
+        "793945071495ee5605673c30155b489b": {
+            "format": "jpg",
+            "id": "793945071495ee5605673c30155b489b",
+            "name": "pomeranian_121.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_121.jpg",
+            "size": {
+                "width": 289,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "608370e1120427da0be4a525424c44eb": {
+            "format": "jpg",
+            "id": "608370e1120427da0be4a525424c44eb",
+            "name": "pomeranian_122.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_122.jpg",
+            "size": {
+                "width": 300,
+                "height": 294
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a9fbf6e694b23711f8dfa5bb73813b3c": {
+            "format": "jpg",
+            "id": "a9fbf6e694b23711f8dfa5bb73813b3c",
+            "name": "pomeranian_123.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_123.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e46ca0b216e1c753f788de508438b261": {
+            "format": "jpg",
+            "id": "e46ca0b216e1c753f788de508438b261",
+            "name": "pomeranian_124.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_124.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4760896d5f0813efe6e9e9674ded18f0": {
+            "format": "jpg",
+            "id": "4760896d5f0813efe6e9e9674ded18f0",
+            "name": "pomeranian_125.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_125.jpg",
+            "size": {
+                "width": 216,
+                "height": 280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2ee27d1b67a1ce31cf9d52ef100f1d02": {
+            "format": "jpg",
+            "id": "2ee27d1b67a1ce31cf9d52ef100f1d02",
+            "name": "pomeranian_126.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_126.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e7d63ab458c07357230de55c959ec047": {
+            "format": "jpg",
+            "id": "e7d63ab458c07357230de55c959ec047",
+            "name": "pomeranian_127.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_127.jpg",
+            "size": {
+                "width": 225,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9abb27661d86e0a7bd0058dc16efc282": {
+            "format": "jpg",
+            "id": "9abb27661d86e0a7bd0058dc16efc282",
+            "name": "pomeranian_128.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_128.jpg",
+            "size": {
+                "width": 204,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "50d6353394312652c4bc9b86dbc9a33e": {
+            "format": "jpg",
+            "id": "50d6353394312652c4bc9b86dbc9a33e",
+            "name": "pomeranian_129.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_129.jpg",
+            "size": {
+                "width": 300,
+                "height": 267
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aa8788a07b84718d2e634cae99044cbb": {
+            "format": "jpg",
+            "id": "aa8788a07b84718d2e634cae99044cbb",
+            "name": "pomeranian_13.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_13.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b84ce1c0371d98390616de5a9327a178": {
+            "format": "jpg",
+            "id": "b84ce1c0371d98390616de5a9327a178",
+            "name": "pomeranian_130.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_130.jpg",
+            "size": {
+                "width": 271,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "429e3f7c724f2f8530cb125f19786dd6": {
+            "format": "jpg",
+            "id": "429e3f7c724f2f8530cb125f19786dd6",
+            "name": "pomeranian_131.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_131.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c8b77e7ab4a7f9769fbdfe8c58e0c482": {
+            "format": "jpg",
+            "id": "c8b77e7ab4a7f9769fbdfe8c58e0c482",
+            "name": "pomeranian_132.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_132.jpg",
+            "size": {
+                "width": 300,
+                "height": 249
+            },
+            "state": 2,
+            "type": 1
+        },
+        "124dfd28b5fe6e22bfef5c59efc381c1": {
+            "format": "jpg",
+            "id": "124dfd28b5fe6e22bfef5c59efc381c1",
+            "name": "pomeranian_133.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_133.jpg",
+            "size": {
+                "width": 300,
+                "height": 291
+            },
+            "state": 2,
+            "type": 1
+        },
+        "99388ccea01b3fd462eae25375bfafb8": {
+            "format": "jpg",
+            "id": "99388ccea01b3fd462eae25375bfafb8",
+            "name": "pomeranian_134.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_134.jpg",
+            "size": {
+                "width": 300,
+                "height": 248
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5d9661988cf33bea4b644073f3309b20": {
+            "format": "jpg",
+            "id": "5d9661988cf33bea4b644073f3309b20",
+            "name": "pomeranian_135.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_135.jpg",
+            "size": {
+                "width": 218,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e7de5508d623de914dc3eddf5a298b6f": {
+            "format": "jpg",
+            "id": "e7de5508d623de914dc3eddf5a298b6f",
+            "name": "pomeranian_136.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_136.jpg",
+            "size": {
+                "width": 295,
+                "height": 299
+            },
+            "state": 2,
+            "type": 1
+        },
+        "394e5627b4f0c6b8671956a9a14b20b0": {
+            "format": "jpg",
+            "id": "394e5627b4f0c6b8671956a9a14b20b0",
+            "name": "pomeranian_137.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_137.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "07778cd97fc64ea6407006eb15db1c8e": {
+            "format": "jpg",
+            "id": "07778cd97fc64ea6407006eb15db1c8e",
+            "name": "pomeranian_138.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_138.jpg",
+            "size": {
+                "width": 300,
+                "height": 203
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5898c7692fbda8e249a8f218b225ee16": {
+            "format": "jpg",
+            "id": "5898c7692fbda8e249a8f218b225ee16",
+            "name": "pomeranian_14.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_14.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e10d7127f83e3638fd9858038e2c5bef": {
+            "format": "jpg",
+            "id": "e10d7127f83e3638fd9858038e2c5bef",
+            "name": "pomeranian_140.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_140.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3b6059260c7fccc4b2da0bd7fc51c5ef": {
+            "format": "jpg",
+            "id": "3b6059260c7fccc4b2da0bd7fc51c5ef",
+            "name": "pomeranian_141.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_141.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0094225f8c1c0e0698d22baa66e9049f": {
+            "format": "jpg",
+            "id": "0094225f8c1c0e0698d22baa66e9049f",
+            "name": "pomeranian_142.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_142.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "88b130714e91ff6246dffcc73bd4673a": {
+            "format": "jpg",
+            "id": "88b130714e91ff6246dffcc73bd4673a",
+            "name": "pomeranian_143.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_143.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6d1e085e78097cd1023796d7b26be2c3": {
+            "format": "jpg",
+            "id": "6d1e085e78097cd1023796d7b26be2c3",
+            "name": "pomeranian_144.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_144.jpg",
+            "size": {
+                "width": 200,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "71725f3c62f0e31d4dd028a5be4087f8": {
+            "format": "jpg",
+            "id": "71725f3c62f0e31d4dd028a5be4087f8",
+            "name": "pomeranian_145.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_145.jpg",
+            "size": {
+                "width": 225,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1f658a77427e53a4e8a43168026d56c4": {
+            "format": "jpg",
+            "id": "1f658a77427e53a4e8a43168026d56c4",
+            "name": "pomeranian_146.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_146.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f9b01fc96417b66758ba8b748a57eeb2": {
+            "format": "jpg",
+            "id": "f9b01fc96417b66758ba8b748a57eeb2",
+            "name": "pomeranian_147.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_147.jpg",
+            "size": {
+                "width": 297,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7e7c57a03488506b791c221184d6d05f": {
+            "format": "jpg",
+            "id": "7e7c57a03488506b791c221184d6d05f",
+            "name": "pomeranian_148.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_148.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dfdee1ff28aebdcebed732a806cd3a7b": {
+            "format": "jpg",
+            "id": "dfdee1ff28aebdcebed732a806cd3a7b",
+            "name": "pomeranian_149.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_149.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "98347c8279df3b0c3fc5e88eff50ac93": {
+            "format": "jpg",
+            "id": "98347c8279df3b0c3fc5e88eff50ac93",
+            "name": "pomeranian_15.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_15.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c697f2fd290ffdeeb5e0b0c20a1cfea3": {
+            "format": "jpg",
+            "id": "c697f2fd290ffdeeb5e0b0c20a1cfea3",
+            "name": "pomeranian_150.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_150.jpg",
+            "size": {
+                "width": 225,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "684a05ace58c67f7faf8b25a4b1a6e99": {
+            "format": "jpg",
+            "id": "684a05ace58c67f7faf8b25a4b1a6e99",
+            "name": "pomeranian_151.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_151.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6401ab1bf7f2f1ff4239209cbbe4f960": {
+            "format": "jpg",
+            "id": "6401ab1bf7f2f1ff4239209cbbe4f960",
+            "name": "pomeranian_152.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_152.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3580674058999a1e50e052a85ebc9224": {
+            "format": "jpg",
+            "id": "3580674058999a1e50e052a85ebc9224",
+            "name": "pomeranian_153.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_153.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "96c3b5800a9daa7a9e3341f42f18aac8": {
+            "format": "jpg",
+            "id": "96c3b5800a9daa7a9e3341f42f18aac8",
+            "name": "pomeranian_154.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_154.jpg",
+            "size": {
+                "width": 288,
+                "height": 216
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1ea23d24b475c576a0f14e54b9ed4511": {
+            "format": "jpg",
+            "id": "1ea23d24b475c576a0f14e54b9ed4511",
+            "name": "pomeranian_155.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_155.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "31d2629bebe5b5a82725b4dee8ee24e4": {
+            "format": "jpg",
+            "id": "31d2629bebe5b5a82725b4dee8ee24e4",
+            "name": "pomeranian_156.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_156.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "265a1dc3e7d556467775910d655d0007": {
+            "format": "jpg",
+            "id": "265a1dc3e7d556467775910d655d0007",
+            "name": "pomeranian_157.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_157.jpg",
+            "size": {
+                "width": 200,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "61cf4edfa2f4b2f409c81001a4a865bc": {
+            "format": "jpg",
+            "id": "61cf4edfa2f4b2f409c81001a4a865bc",
+            "name": "pomeranian_158.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_158.jpg",
+            "size": {
+                "width": 236,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "20e2b8ab4b1d1e0a2477b55c641ab972": {
+            "format": "jpg",
+            "id": "20e2b8ab4b1d1e0a2477b55c641ab972",
+            "name": "pomeranian_159.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_159.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e843a7f8a30157900a6156ef4710db73": {
+            "format": "jpg",
+            "id": "e843a7f8a30157900a6156ef4710db73",
+            "name": "pomeranian_16.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_16.jpg",
+            "size": {
+                "width": 500,
+                "height": 348
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2fe16ee1d4a05eb6827ebf20420b9167": {
+            "format": "jpg",
+            "id": "2fe16ee1d4a05eb6827ebf20420b9167",
+            "name": "pomeranian_160.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_160.jpg",
+            "size": {
+                "width": 300,
+                "height": 274
+            },
+            "state": 2,
+            "type": 1
+        },
+        "264b46ee44f4dc9d14a66c843cfef619": {
+            "format": "jpg",
+            "id": "264b46ee44f4dc9d14a66c843cfef619",
+            "name": "pomeranian_161.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_161.jpg",
+            "size": {
+                "width": 300,
+                "height": 200
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a249dde752b2ebee19efe6571bba9825": {
+            "format": "jpg",
+            "id": "a249dde752b2ebee19efe6571bba9825",
+            "name": "pomeranian_162.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_162.jpg",
+            "size": {
+                "width": 222,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9605a371131eb42e3be85df535b83bac": {
+            "format": "jpg",
+            "id": "9605a371131eb42e3be85df535b83bac",
+            "name": "pomeranian_163.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_163.jpg",
+            "size": {
+                "width": 290,
+                "height": 214
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1e953ee5ba1f222f1a3954d809ad600d": {
+            "format": "jpg",
+            "id": "1e953ee5ba1f222f1a3954d809ad600d",
+            "name": "pomeranian_164.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_164.jpg",
+            "size": {
+                "width": 300,
+                "height": 224
+            },
+            "state": 2,
+            "type": 1
+        },
+        "95926a44966458cd4600d9066d163b43": {
+            "format": "jpg",
+            "id": "95926a44966458cd4600d9066d163b43",
+            "name": "pomeranian_166.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_166.jpg",
+            "size": {
+                "width": 189,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c2a186d8bbe5f12183aae94216fd5e84": {
+            "format": "jpg",
+            "id": "c2a186d8bbe5f12183aae94216fd5e84",
+            "name": "pomeranian_165.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_165.jpg",
+            "size": {
+                "width": 290,
+                "height": 222
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b255b25ae53d896f7cf369db8fcb60a5": {
+            "format": "jpg",
+            "id": "b255b25ae53d896f7cf369db8fcb60a5",
+            "name": "pomeranian_167.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_167.jpg",
+            "size": {
+                "width": 274,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "724180e8b899aa50e1883e5c4f4384f6": {
+            "format": "jpg",
+            "id": "724180e8b899aa50e1883e5c4f4384f6",
+            "name": "pomeranian_168.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_168.jpg",
+            "size": {
+                "width": 300,
+                "height": 203
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0a1bf25b7f54101ea3733a649581f77b": {
+            "format": "jpg",
+            "id": "0a1bf25b7f54101ea3733a649581f77b",
+            "name": "pomeranian_169.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_169.jpg",
+            "size": {
+                "width": 217,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "641ace8c8164447f2760ff618a7d023d": {
+            "format": "jpg",
+            "id": "641ace8c8164447f2760ff618a7d023d",
+            "name": "pomeranian_17.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_17.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bbd80faa96f6f1176e3daf9c00960932": {
+            "format": "jpg",
+            "id": "bbd80faa96f6f1176e3daf9c00960932",
+            "name": "pomeranian_170.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_170.jpg",
+            "size": {
+                "width": 225,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "198f43f5727015e5c56f3f2330554091": {
+            "format": "jpg",
+            "id": "198f43f5727015e5c56f3f2330554091",
+            "name": "pomeranian_171.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_171.jpg",
+            "size": {
+                "width": 225,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0a1ceef69342fcf9f80d155da995d03b": {
+            "format": "jpg",
+            "id": "0a1ceef69342fcf9f80d155da995d03b",
+            "name": "pomeranian_172.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_172.jpg",
+            "size": {
+                "width": 200,
+                "height": 150
+            },
+            "state": 2,
+            "type": 1
+        },
+        "97f1603b6cb02c760d073fc4670a2888": {
+            "format": "jpg",
+            "id": "97f1603b6cb02c760d073fc4670a2888",
+            "name": "pomeranian_173.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_173.jpg",
+            "size": {
+                "width": 225,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "755d559d825e74fa2e74086b78471d44": {
+            "format": "jpg",
+            "id": "755d559d825e74fa2e74086b78471d44",
+            "name": "pomeranian_174.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_174.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "74e02dbe1285e8b97dc02b1db9a1693b": {
+            "format": "jpg",
+            "id": "74e02dbe1285e8b97dc02b1db9a1693b",
+            "name": "pomeranian_175.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_175.jpg",
+            "size": {
+                "width": 288,
+                "height": 282
+            },
+            "state": 1,
+            "type": 1
+        },
+        "eca23b1fe9ed6d28cbbc27d7b63b8dd4": {
+            "format": "jpg",
+            "id": "eca23b1fe9ed6d28cbbc27d7b63b8dd4",
+            "name": "pomeranian_176.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_176.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ab0222a919b00de5c525104598fd150e": {
+            "format": "jpg",
+            "id": "ab0222a919b00de5c525104598fd150e",
+            "name": "pomeranian_177.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_177.jpg",
+            "size": {
+                "width": 300,
+                "height": 203
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f09d54541a8becb7c79d44b95aead73c": {
+            "format": "jpg",
+            "id": "f09d54541a8becb7c79d44b95aead73c",
+            "name": "pomeranian_178.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_178.jpg",
+            "size": {
+                "width": 208,
+                "height": 269
+            },
+            "state": 2,
+            "type": 1
+        },
+        "01599e9f3fe4a905487581939c92727b": {
+            "format": "jpg",
+            "id": "01599e9f3fe4a905487581939c92727b",
+            "name": "pomeranian_179.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_179.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "443cf3982fd3cbde99d6e47b5fc8fc4a": {
+            "format": "jpg",
+            "id": "443cf3982fd3cbde99d6e47b5fc8fc4a",
+            "name": "pomeranian_18.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_18.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a9e9ebbf0e0049f59acb7fa10a04c971": {
+            "format": "jpg",
+            "id": "a9e9ebbf0e0049f59acb7fa10a04c971",
+            "name": "pomeranian_180.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_180.jpg",
+            "size": {
+                "width": 203,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "52a3cb6acf9233aad43e27de45851370": {
+            "format": "jpg",
+            "id": "52a3cb6acf9233aad43e27de45851370",
+            "name": "pomeranian_181.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_181.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "be10c96de013936ee4d8e8883a0bee52": {
+            "format": "jpg",
+            "id": "be10c96de013936ee4d8e8883a0bee52",
+            "name": "pomeranian_182.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_182.jpg",
+            "size": {
+                "width": 250,
+                "height": 276
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4f977cb5dc020f71f7a76b34338522d0": {
+            "format": "jpg",
+            "id": "4f977cb5dc020f71f7a76b34338522d0",
+            "name": "pomeranian_183.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_183.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "255365b08e721dfa88e3ee4d95125e7d": {
+            "format": "jpg",
+            "id": "255365b08e721dfa88e3ee4d95125e7d",
+            "name": "pomeranian_184.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_184.jpg",
+            "size": {
+                "width": 281,
+                "height": 243
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cfa7dd28e202f0ad51417a92d392dd82": {
+            "format": "jpg",
+            "id": "cfa7dd28e202f0ad51417a92d392dd82",
+            "name": "pomeranian_185.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_185.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 1,
+            "type": 1
+        },
+        "9b625d128a8758a95c71d56da3b561c3": {
+            "format": "jpg",
+            "id": "9b625d128a8758a95c71d56da3b561c3",
+            "name": "pomeranian_186.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_186.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "88e86557f9b37642c444ad7d1c243cb0": {
+            "format": "jpg",
+            "id": "88e86557f9b37642c444ad7d1c243cb0",
+            "name": "pomeranian_187.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_187.jpg",
+            "size": {
+                "width": 300,
+                "height": 287
+            },
+            "state": 2,
+            "type": 1
+        },
+        "47aeb663b3f6105551e9d33cafff50e2": {
+            "format": "jpg",
+            "id": "47aeb663b3f6105551e9d33cafff50e2",
+            "name": "pomeranian_188.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_188.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c81d4b4385dd6e21ed2ef7c2acff19f0": {
+            "format": "jpg",
+            "id": "c81d4b4385dd6e21ed2ef7c2acff19f0",
+            "name": "pomeranian_189.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_189.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 1,
+            "type": 1
+        },
+        "b72315567f9acff95fefaa7e6d4e6b06": {
+            "format": "jpg",
+            "id": "b72315567f9acff95fefaa7e6d4e6b06",
+            "name": "pomeranian_19.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_19.jpg",
+            "size": {
+                "width": 500,
+                "height": 354
+            },
+            "state": 2,
+            "type": 1
+        },
+        "46d8b6e5ca850c7fa3873a062cdf5788": {
+            "format": "jpg",
+            "id": "46d8b6e5ca850c7fa3873a062cdf5788",
+            "name": "pomeranian_190.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_190.jpg",
+            "size": {
+                "width": 300,
+                "height": 296
+            },
+            "state": 2,
+            "type": 1
+        },
+        "89938a8b517e6ad0e7a7cdececac638d": {
+            "format": "jpg",
+            "id": "89938a8b517e6ad0e7a7cdececac638d",
+            "name": "pomeranian_191.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_191.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d993c194cb2838c4352d8890be0748fe": {
+            "format": "jpg",
+            "id": "d993c194cb2838c4352d8890be0748fe",
+            "name": "pomeranian_192.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_192.jpg",
+            "size": {
+                "width": 300,
+                "height": 212
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ec0e0ee2aa8a4a20973115793b32b83b": {
+            "format": "jpg",
+            "id": "ec0e0ee2aa8a4a20973115793b32b83b",
+            "name": "pomeranian_194.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_194.jpg",
+            "size": {
+                "width": 214,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "780edc0befd8a3007f345c26c4aa583c": {
+            "format": "jpg",
+            "id": "780edc0befd8a3007f345c26c4aa583c",
+            "name": "pomeranian_195.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_195.jpg",
+            "size": {
+                "width": 300,
+                "height": 208
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f927bdf14778653a8c869769140c145e": {
+            "format": "jpg",
+            "id": "f927bdf14778653a8c869769140c145e",
+            "name": "pomeranian_196.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_196.jpg",
+            "size": {
+                "width": 224,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "df39f88976fc30a332980c14a61540f7": {
+            "format": "jpg",
+            "id": "df39f88976fc30a332980c14a61540f7",
+            "name": "pomeranian_197.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_197.jpg",
+            "size": {
+                "width": 300,
+                "height": 293
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7253b56ac89328932fefe44bb87ec02c": {
+            "format": "jpg",
+            "id": "7253b56ac89328932fefe44bb87ec02c",
+            "name": "pomeranian_198.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_198.jpg",
+            "size": {
+                "width": 300,
+                "height": 225
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9ec727ecdae7d8cd306620aa1fd88729": {
+            "format": "jpg",
+            "id": "9ec727ecdae7d8cd306620aa1fd88729",
+            "name": "pomeranian_199.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_199.jpg",
+            "size": {
+                "width": 278,
+                "height": 300
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b09e47d9e3f1a86d8feb020761392b4c": {
+            "format": "jpg",
+            "id": "b09e47d9e3f1a86d8feb020761392b4c",
+            "name": "pomeranian_2.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_2.jpg",
+            "size": {
+                "width": 333,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e96adee367b81a6c2ed45e7209915ff8": {
+            "format": "jpg",
+            "id": "e96adee367b81a6c2ed45e7209915ff8",
+            "name": "pomeranian_20.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_20.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "bbe9764d54ce0a9fd2b5291874a5f111": {
+            "format": "jpg",
+            "id": "bbe9764d54ce0a9fd2b5291874a5f111",
+            "name": "pomeranian_200.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_200.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "50e294cd014cd89a112c2efbd98509e0": {
+            "format": "jpg",
+            "id": "50e294cd014cd89a112c2efbd98509e0",
+            "name": "pomeranian_21.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_21.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "20f7a0848719a60c8f469a5583e5b765": {
+            "format": "jpg",
+            "id": "20f7a0848719a60c8f469a5583e5b765",
+            "name": "pomeranian_22.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_22.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "891acc5fc50432897cade156267b7537": {
+            "format": "jpg",
+            "id": "891acc5fc50432897cade156267b7537",
+            "name": "pomeranian_23.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_23.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "91c7878684d31bd7d3600f0e54ac1651": {
+            "format": "jpg",
+            "id": "91c7878684d31bd7d3600f0e54ac1651",
+            "name": "pomeranian_24.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_24.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f05051d8ebd92f549811f208f10572f8": {
+            "format": "jpg",
+            "id": "f05051d8ebd92f549811f208f10572f8",
+            "name": "pomeranian_25.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_25.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "aa1f30e9ef8da56f857363e4a6accda7": {
+            "format": "jpg",
+            "id": "aa1f30e9ef8da56f857363e4a6accda7",
+            "name": "pomeranian_26.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_26.jpg",
+            "size": {
+                "width": 357,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ebd72a7be0baf1e098fc2dbba6be8900": {
+            "format": "jpg",
+            "id": "ebd72a7be0baf1e098fc2dbba6be8900",
+            "name": "pomeranian_27.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_27.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "5ce8c84912ffbec3da55aa0b48b643f8": {
+            "format": "jpg",
+            "id": "5ce8c84912ffbec3da55aa0b48b643f8",
+            "name": "pomeranian_28.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_28.jpg",
+            "size": {
+                "width": 333,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7c4a6ffd9b65b2825d2b76d32a08ecac": {
+            "format": "jpg",
+            "id": "7c4a6ffd9b65b2825d2b76d32a08ecac",
+            "name": "pomeranian_29.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_29.jpg",
+            "size": {
+                "width": 333,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6ff0406d7e6dbd5f0f0500f2e1e094f8": {
+            "format": "jpg",
+            "id": "6ff0406d7e6dbd5f0f0500f2e1e094f8",
+            "name": "pomeranian_3.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_3.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6aa4e140fa30bef2300f1df90c018469": {
+            "format": "jpg",
+            "id": "6aa4e140fa30bef2300f1df90c018469",
+            "name": "pomeranian_30.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_30.jpg",
+            "size": {
+                "width": 500,
+                "height": 337
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a21abf41ed01539e0f539b627ebf1423": {
+            "format": "jpg",
+            "id": "a21abf41ed01539e0f539b627ebf1423",
+            "name": "pomeranian_31.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_31.jpg",
+            "size": {
+                "width": 500,
+                "height": 363
+            },
+            "state": 2,
+            "type": 1
+        },
+        "79d83951c1550da00ad02b679165d525": {
+            "format": "jpg",
+            "id": "79d83951c1550da00ad02b679165d525",
+            "name": "pomeranian_32.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_32.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f7e4dd41b376185f877ce31d766f69f8": {
+            "format": "jpg",
+            "id": "f7e4dd41b376185f877ce31d766f69f8",
+            "name": "pomeranian_33.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_33.jpg",
+            "size": {
+                "width": 500,
+                "height": 440
+            },
+            "state": 2,
+            "type": 1
+        },
+        "21c03f5a25110057a9ceda867aa2f7ec": {
+            "format": "jpg",
+            "id": "21c03f5a25110057a9ceda867aa2f7ec",
+            "name": "pomeranian_34.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_34.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3affacde2792e998b76a34124f4cb2ba": {
+            "format": "jpg",
+            "id": "3affacde2792e998b76a34124f4cb2ba",
+            "name": "pomeranian_35.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_35.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9e0a086969d3c9f94bdf670e2bc947ab": {
+            "format": "jpg",
+            "id": "9e0a086969d3c9f94bdf670e2bc947ab",
+            "name": "pomeranian_36.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_36.jpg",
+            "size": {
+                "width": 500,
+                "height": 339
+            },
+            "state": 2,
+            "type": 1
+        },
+        "311bd342504244681a445a376b5f84c7": {
+            "format": "jpg",
+            "id": "311bd342504244681a445a376b5f84c7",
+            "name": "pomeranian_37.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_37.jpg",
+            "size": {
+                "width": 500,
+                "height": 496
+            },
+            "state": 2,
+            "type": 1
+        },
+        "24c1632fa92d3cd6a5b5a7a2c1ce1f2b": {
+            "format": "jpg",
+            "id": "24c1632fa92d3cd6a5b5a7a2c1ce1f2b",
+            "name": "pomeranian_38.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_38.jpg",
+            "size": {
+                "width": 500,
+                "height": 483
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9ec3284addbb52f3f4b7383c7fe7a7e6": {
+            "format": "jpg",
+            "id": "9ec3284addbb52f3f4b7383c7fe7a7e6",
+            "name": "pomeranian_39.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_39.jpg",
+            "size": {
+                "width": 500,
+                "height": 496
+            },
+            "state": 2,
+            "type": 1
+        },
+        "704753086dbb1b8eddaea566a4d6fbe5": {
+            "format": "jpg",
+            "id": "704753086dbb1b8eddaea566a4d6fbe5",
+            "name": "pomeranian_4.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_4.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a69ee60f6180ac402e1d0617f4e6d608": {
+            "format": "jpg",
+            "id": "a69ee60f6180ac402e1d0617f4e6d608",
+            "name": "pomeranian_40.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_40.jpg",
+            "size": {
+                "width": 500,
+                "height": 433
+            },
+            "state": 2,
+            "type": 1
+        },
+        "281ddd6fbf2db92d44b21c7912addae1": {
+            "format": "jpg",
+            "id": "281ddd6fbf2db92d44b21c7912addae1",
+            "name": "pomeranian_41.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_41.jpg",
+            "size": {
+                "width": 500,
+                "height": 382
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d7394fa0aeb3e8e662e44e77b439fb55": {
+            "format": "jpg",
+            "id": "d7394fa0aeb3e8e662e44e77b439fb55",
+            "name": "pomeranian_42.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_42.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ad5c3cde8aab6cadb3cddfa6b9093c5c": {
+            "format": "jpg",
+            "id": "ad5c3cde8aab6cadb3cddfa6b9093c5c",
+            "name": "pomeranian_43.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_43.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4f8c87fc82362cb90d61ff2bbfd70513": {
+            "format": "jpg",
+            "id": "4f8c87fc82362cb90d61ff2bbfd70513",
+            "name": "pomeranian_44.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_44.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f4a826adcb7b865428cb69d2b948def9": {
+            "format": "jpg",
+            "id": "f4a826adcb7b865428cb69d2b948def9",
+            "name": "pomeranian_45.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_45.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3bdfdee3bc75091cdc10f16a660f4d3c": {
+            "format": "jpg",
+            "id": "3bdfdee3bc75091cdc10f16a660f4d3c",
+            "name": "pomeranian_46.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_46.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0b8bca04ea54753710276476f66d6bde": {
+            "format": "jpg",
+            "id": "0b8bca04ea54753710276476f66d6bde",
+            "name": "pomeranian_47.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_47.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "14189de50ed45307feda1d5715bc2c1d": {
+            "format": "jpg",
+            "id": "14189de50ed45307feda1d5715bc2c1d",
+            "name": "pomeranian_48.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_48.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "da2a273423e976a47fe14e7d8beb986b": {
+            "format": "jpg",
+            "id": "da2a273423e976a47fe14e7d8beb986b",
+            "name": "pomeranian_49.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_49.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d452a94feb0d13b4ac8c586de4777ffc": {
+            "format": "jpg",
+            "id": "d452a94feb0d13b4ac8c586de4777ffc",
+            "name": "pomeranian_5.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_5.jpg",
+            "size": {
+                "width": 500,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9123418004ee94dab140c66c791e29e2": {
+            "format": "jpg",
+            "id": "9123418004ee94dab140c66c791e29e2",
+            "name": "pomeranian_50.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_50.jpg",
+            "size": {
+                "width": 333,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f1dc8f47e57ffcaba72be9273c046799": {
+            "format": "jpg",
+            "id": "f1dc8f47e57ffcaba72be9273c046799",
+            "name": "pomeranian_51.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_51.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ed2a79da273d0c4310b55f5a3a80b8dd": {
+            "format": "jpg",
+            "id": "ed2a79da273d0c4310b55f5a3a80b8dd",
+            "name": "pomeranian_52.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_52.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2845b528d169f10357970237fa5077d8": {
+            "format": "jpg",
+            "id": "2845b528d169f10357970237fa5077d8",
+            "name": "pomeranian_53.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_53.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "dcba9f4aaa19a8514a5ada6a3d48555e": {
+            "format": "jpg",
+            "id": "dcba9f4aaa19a8514a5ada6a3d48555e",
+            "name": "pomeranian_54.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_54.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e0513a1ff8069a23d673c89a40a49337": {
+            "format": "jpg",
+            "id": "e0513a1ff8069a23d673c89a40a49337",
+            "name": "pomeranian_55.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_55.jpg",
+            "size": {
+                "width": 500,
+                "height": 332
+            },
+            "state": 2,
+            "type": 1
+        },
+        "872dbe535ac71b2aec7f2e9f7bd113ba": {
+            "format": "jpg",
+            "id": "872dbe535ac71b2aec7f2e9f7bd113ba",
+            "name": "pomeranian_56.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_56.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "01235f502d866727b883d905714e25cd": {
+            "format": "jpg",
+            "id": "01235f502d866727b883d905714e25cd",
+            "name": "pomeranian_99.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_99.jpg",
+            "size": {
+                "width": 332,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3b0dd859016d54c256b72da60e11accc": {
+            "format": "jpg",
+            "id": "3b0dd859016d54c256b72da60e11accc",
+            "name": "pomeranian_98.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_98.jpg",
+            "size": {
+                "width": 354,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "78411b8c89dba16b2fd4f45200c8c587": {
+            "format": "jpg",
+            "id": "78411b8c89dba16b2fd4f45200c8c587",
+            "name": "pomeranian_97.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_97.jpg",
+            "size": {
+                "width": 500,
+                "height": 334
+            },
+            "state": 2,
+            "type": 1
+        },
+        "102f3bfeda64f293504fb27f73e32780": {
+            "format": "jpg",
+            "id": "102f3bfeda64f293504fb27f73e32780",
+            "name": "pomeranian_96.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_96.jpg",
+            "size": {
+                "width": 334,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3ec81b169cb87054df4a7dfd1c78befb": {
+            "format": "jpg",
+            "id": "3ec81b169cb87054df4a7dfd1c78befb",
+            "name": "pomeranian_95.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_95.jpg",
+            "size": {
+                "width": 334,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "17844cde499e02c94db2efca6b0362b8": {
+            "format": "jpg",
+            "id": "17844cde499e02c94db2efca6b0362b8",
+            "name": "pomeranian_94.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_94.jpg",
+            "size": {
+                "width": 500,
+                "height": 332
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1bbd31c7b2994d36be8896390006d99c": {
+            "format": "jpg",
+            "id": "1bbd31c7b2994d36be8896390006d99c",
+            "name": "pomeranian_93.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_93.jpg",
+            "size": {
+                "width": 500,
+                "height": 384
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1f1c572f4578da5d8b94977416f30faa": {
+            "format": "jpg",
+            "id": "1f1c572f4578da5d8b94977416f30faa",
+            "name": "pomeranian_92.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_92.jpg",
+            "size": {
+                "width": 333,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "526a798fb94eb8f30a4ac25333c12bea": {
+            "format": "jpg",
+            "id": "526a798fb94eb8f30a4ac25333c12bea",
+            "name": "pomeranian_91.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_91.jpg",
+            "size": {
+                "width": 500,
+                "height": 322
+            },
+            "state": 2,
+            "type": 1
+        },
+        "cf41421ae8c03e72c4f4f59b3f0479f8": {
+            "format": "jpg",
+            "id": "cf41421ae8c03e72c4f4f59b3f0479f8",
+            "name": "pomeranian_9.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_9.jpg",
+            "size": {
+                "width": 500,
+                "height": 332
+            },
+            "state": 2,
+            "type": 1
+        },
+        "4a27e41964591648e5010d0aafdbcad2": {
+            "format": "jpg",
+            "id": "4a27e41964591648e5010d0aafdbcad2",
+            "name": "pomeranian_89.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_89.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ca4adced3c19088f6673aa8df71e68e7": {
+            "format": "jpg",
+            "id": "ca4adced3c19088f6673aa8df71e68e7",
+            "name": "pomeranian_88.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_88.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f60071aa98206769a30128adb2992aa5": {
+            "format": "jpg",
+            "id": "f60071aa98206769a30128adb2992aa5",
+            "name": "pomeranian_87.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_87.jpg",
+            "size": {
+                "width": 500,
+                "height": 322
+            },
+            "state": 2,
+            "type": 1
+        },
+        "907c71b488cbd19e367a8bee889fd7ee": {
+            "format": "jpg",
+            "id": "907c71b488cbd19e367a8bee889fd7ee",
+            "name": "pomeranian_86.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_86.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "8660a474dd0d80d1480864554c8eecbb": {
+            "format": "jpg",
+            "id": "8660a474dd0d80d1480864554c8eecbb",
+            "name": "pomeranian_85.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_85.jpg",
+            "size": {
+                "width": 333,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0713407240ee632a17babd7ee071e224": {
+            "format": "jpg",
+            "id": "0713407240ee632a17babd7ee071e224",
+            "name": "pomeranian_84.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_84.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a544d6d15361666a57147f06755c3f00": {
+            "format": "jpg",
+            "id": "a544d6d15361666a57147f06755c3f00",
+            "name": "pomeranian_83.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_83.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "574728665f780f36c7a18f3640f44f4b": {
+            "format": "jpg",
+            "id": "574728665f780f36c7a18f3640f44f4b",
+            "name": "pomeranian_82.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_82.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c5f0c6ef72488503dac115a2cf74915f": {
+            "format": "jpg",
+            "id": "c5f0c6ef72488503dac115a2cf74915f",
+            "name": "pomeranian_81.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_81.jpg",
+            "size": {
+                "width": 500,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b2612703c08db7b06f8e0c02bfb39768": {
+            "format": "jpg",
+            "id": "b2612703c08db7b06f8e0c02bfb39768",
+            "name": "pomeranian_80.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_80.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "693bbba2c8d57924b24eea34f5cfda9f": {
+            "format": "jpg",
+            "id": "693bbba2c8d57924b24eea34f5cfda9f",
+            "name": "pomeranian_8.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_8.jpg",
+            "size": {
+                "width": 432,
+                "height": 243
+            },
+            "state": 2,
+            "type": 1
+        },
+        "547ba81cdce8c5da24be50c84f8152cf": {
+            "format": "jpg",
+            "id": "547ba81cdce8c5da24be50c84f8152cf",
+            "name": "pomeranian_78.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_78.jpg",
+            "size": {
+                "width": 333,
+                "height": 500
+            },
+            "state": 1,
+            "type": 1
+        },
+        "cbfd32a65803434e06bb0873dcb5052a": {
+            "format": "jpg",
+            "id": "cbfd32a65803434e06bb0873dcb5052a",
+            "name": "pomeranian_79.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_79.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "895a35cf45aec7d394aa875b9e32bd56": {
+            "format": "jpg",
+            "id": "895a35cf45aec7d394aa875b9e32bd56",
+            "name": "pomeranian_77.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_77.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0980810741540cb13c10ff583a2fc5f6": {
+            "format": "jpg",
+            "id": "0980810741540cb13c10ff583a2fc5f6",
+            "name": "pomeranian_76.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_76.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a0f446d84c8154d129776e816fde5025": {
+            "format": "jpg",
+            "id": "a0f446d84c8154d129776e816fde5025",
+            "name": "pomeranian_75.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_75.jpg",
+            "size": {
+                "width": 500,
+                "height": 342
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7e8d257fa3b359aa988c191d1addab60": {
+            "format": "jpg",
+            "id": "7e8d257fa3b359aa988c191d1addab60",
+            "name": "pomeranian_74.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_74.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "15f3e91def02f79f81562974dab03acc": {
+            "format": "jpg",
+            "id": "15f3e91def02f79f81562974dab03acc",
+            "name": "pomeranian_73.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_73.jpg",
+            "size": {
+                "width": 500,
+                "height": 333
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0c64dbf550818d5ed40beee96c475a00": {
+            "format": "jpg",
+            "id": "0c64dbf550818d5ed40beee96c475a00",
+            "name": "pomeranian_72.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_72.jpg",
+            "size": {
+                "width": 333,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7efe32ad17b7202907c228bc205db76e": {
+            "format": "jpg",
+            "id": "7efe32ad17b7202907c228bc205db76e",
+            "name": "pomeranian_71.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_71.jpg",
+            "size": {
+                "width": 500,
+                "height": 343
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6aff30a6bd4dddb00f4ba88f6d6fcc96": {
+            "format": "jpg",
+            "id": "6aff30a6bd4dddb00f4ba88f6d6fcc96",
+            "name": "pomeranian_70.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_70.jpg",
+            "size": {
+                "width": 500,
+                "height": 334
+            },
+            "state": 2,
+            "type": 1
+        },
+        "16572b18cd0c48fc94f6ce7466d3cb8d": {
+            "format": "jpg",
+            "id": "16572b18cd0c48fc94f6ce7466d3cb8d",
+            "name": "pomeranian_7.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_7.jpg",
+            "size": {
+                "width": 500,
+                "height": 332
+            },
+            "state": 2,
+            "type": 1
+        },
+        "293312722faf29d0e9c899a4f6d01c2f": {
+            "format": "jpg",
+            "id": "293312722faf29d0e9c899a4f6d01c2f",
+            "name": "pomeranian_69.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_69.jpg",
+            "size": {
+                "width": 500,
+                "height": 376
+            },
+            "state": 2,
+            "type": 1
+        },
+        "191928bc2bb6000ce64917eb6e80dec1": {
+            "format": "jpg",
+            "id": "191928bc2bb6000ce64917eb6e80dec1",
+            "name": "pomeranian_68.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_68.jpg",
+            "size": {
+                "width": 333,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7e2e7dc77aa579e66d3b1a713e386075": {
+            "format": "jpg",
+            "id": "7e2e7dc77aa579e66d3b1a713e386075",
+            "name": "pomeranian_67.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_67.jpg",
+            "size": {
+                "width": 316,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "3dd34d68e71d9c28dfe635ac95bed136": {
+            "format": "jpg",
+            "id": "3dd34d68e71d9c28dfe635ac95bed136",
+            "name": "pomeranian_66.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_66.jpg",
+            "size": {
+                "width": 333,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        },
+        "13627b14e0b08db759e98d54806021bd": {
+            "format": "jpg",
+            "id": "13627b14e0b08db759e98d54806021bd",
+            "name": "pomeranian_65.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_65.jpg",
+            "size": {
+                "width": 500,
+                "height": 368
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e7bdb6baeef151debae06520ac9b9eef": {
+            "format": "jpg",
+            "id": "e7bdb6baeef151debae06520ac9b9eef",
+            "name": "pomeranian_64.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_64.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f1a3594495f43366a3c73531f9c01cab": {
+            "format": "jpg",
+            "id": "f1a3594495f43366a3c73531f9c01cab",
+            "name": "pomeranian_63.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_63.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2a55f9b07396fcf817c8f463dbce0e85": {
+            "format": "jpg",
+            "id": "2a55f9b07396fcf817c8f463dbce0e85",
+            "name": "pomeranian_62.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_62.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "db043adde994a7e2c095faf12e8a0521": {
+            "format": "jpg",
+            "id": "db043adde994a7e2c095faf12e8a0521",
+            "name": "pomeranian_61.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_61.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "136901d868503f1215f368e1326f6603": {
+            "format": "jpg",
+            "id": "136901d868503f1215f368e1326f6603",
+            "name": "pomeranian_60.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_60.jpg",
+            "size": {
+                "width": 500,
+                "height": 357
+            },
+            "state": 2,
+            "type": 1
+        },
+        "24573476172e7fc5f7bc1be0cd641f5f": {
+            "format": "jpg",
+            "id": "24573476172e7fc5f7bc1be0cd641f5f",
+            "name": "pomeranian_6.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_6.jpg",
+            "size": {
+                "width": 500,
+                "height": 335
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e66a36d701201f37eb81df70c9568339": {
+            "format": "jpg",
+            "id": "e66a36d701201f37eb81df70c9568339",
+            "name": "pomeranian_59.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_59.jpg",
+            "size": {
+                "width": 500,
+                "height": 375
+            },
+            "state": 2,
+            "type": 1
+        },
+        "f17342f6096c820dc0ec1d9e9c49feb1": {
+            "format": "jpg",
+            "id": "f17342f6096c820dc0ec1d9e9c49feb1",
+            "name": "pomeranian_57.jpg",
+            "path": "file:C:/Users/Fuzail/Desktop/internship/TrainYourOwnYOLO/Data/Source_Images/Training_Images/pomeranian_57.jpg",
+            "size": {
+                "width": 375,
+                "height": 500
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}
