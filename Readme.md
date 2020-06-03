@@ -3,13 +3,15 @@ Part 1:
 https://blog.insightdatascience.com/how-to-train-your-own-yolov3-detector-from-scratch-224d10e55de2
 
 Note:
-1:  pip install -r requirements.txt
+1:  !pip install -r requirements.txt
 
-2: pip uninstall tensorflow
+2:  !pip uninstall tensorflow
 
-3:!pip install tensorflow_gpu==1.14.0
+3:  !pip install tensorflow_gpu==1.14.0
 
 4:  !rm /content/TrainYourOwnYOLO/Data/Model_Weights -r
+    
+    
     !ln -s /content/drive/'My Drive'/backup /content/TrainYourOwnYOLO/Data/Model_Weights
     
 5:  !cp  /content/drive/'My Drive'/backup/trained_weights_final.h5 /content/TrainYourOwnYOLO/2_Training/src/keras_yolo3/
