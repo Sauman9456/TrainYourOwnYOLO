@@ -26,3 +26,5 @@ Step3: Go into "/TrainYourOwnYOLO/2_Training/src/keras_yolo3/yolo3" open "model.
 
 Step4: Go into "/TrainYourOwnYOLO/2_Training/src/keras_yolo3" and run "pb_convert.py"
   >>python pb_convert.py --input_model "path/to/keras/model.h5" --output_model="path/to/save/model.pb"
+  
+  https://www.cnblogs.com/fragrant-breeze/p/12995593.html
