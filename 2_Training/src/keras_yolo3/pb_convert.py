@@ -51,7 +51,8 @@ def load_model(input_model_path, input_json_path=None, input_yaml_path=None):
             'Model file `{}` does not exist.'.format(input_model_path))
     try:
         model = keras.models.load_model(input_model_path)
-        model = yolo_body(Input(shape=(None, None, 3)), 3, 2)
+        #yolo_body(Input(shape=(None, None, 3)), 3, num_classes)
+        model = yolo_body(Input(shape=(None, None, 3)), 3, 4)
         model.load_weights('input_model_path')
         return model
     except FileNotFoundError as err:
@@ -118,6 +119,7 @@ def main(args):
         K.set_image_data_format('channels_last')
 
     # model = load_model(FLAGS.input_model, FLAGS.input_model_json, FLAGS.input_model_yaml)
+    #yolo_body(Input(shape=(None, None, 3)), 3, num_classes)
     model = yolo_body(Input(shape=(None, None, 3)), 3, 4)
     model.load_weights(FLAGS.input_model)
     # TODO(amirabdi): Support networks with multiple inputs
