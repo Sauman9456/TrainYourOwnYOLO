@@ -93,3 +93,12 @@ Step 2: Run the following command to get the tflite model
           --graph_def_file=/content/model.pb \
           --input_arrays=conv2d_1/kernel \
           --output_arrays=conv2d_75/BiasAdd
+          
+          
+          
+         
+https://colab.research.google.com/drive/1U3fkRu6-hwjk7wWIpg-iylL2u5T9t7rr#scrollTo=DHoP90pUyKSq
+
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
+
+https://towardsdatascience.com/real-time-mobile-video-object-detection-using-tensorflow-a75fa0c5859d
